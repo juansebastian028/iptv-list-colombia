@@ -1,0 +1,95 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Caracol TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Canal-Caracol-TV-en-vivo-Online-218x150.png", Caracol TV
+https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
+#EXTINF:-1 tvg-name="Caracol TV V2" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Canal-Caracol-TV-en-vivo-Online-218x150.png", Caracol TV V2
+http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
+#EXTINF:-1 tvg-name="RCN" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Canal-RCN-en-vivo-Online-218x150.png", RCN
+https://stream-02.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZUf0GWZ6cgqcQTdHgScgI9c)/dm/3/x7vyv0z/s/live-3.m3u8
+#EXTINF:-1 tvg-name="NTN24" tvg-logo="https://html.canalrcn.com/CanalRCN/react/home-v2/img/ntn24-logo.png", NTN24
+https://stream-03.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAlx1XbdT77eKjvbInw-N37MQ)/dm/3/x7w4okl/s/live-3.m3u8
+#EXTINF:-1 tvg-name="Señal Colombia" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Senal-Colombia-en-vivo-en-Directo-218x150.png", Señal Colombia
+https://streaming5.rtvc.gov.co/live-750/SC/index.m3u8
+#EXTINF:-1 tvg-name="Canal Mundo+" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/03/Canal-Mundo-Colombia-en-vivo-Online-100x70.png", Canal Mundo+
+http://vcp1.myplaytv.com:1935/mundomas/mundomas/chunklist_w433194687.m3u8
+#EXTINF:-1 tvg-name="Canal Institucional" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Canal-Institucional-Colombia-en-vivo-Online-218x150.png", Canal Institucional
+https://streaming4.rtvc.gov.co/live-750/CI/index.m3u8
+#EXTINF:-1 tvg-name="Canal Capital" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Canal-Capital-en-vivo-Online-100x70.png", Canal Capital
+https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
+#EXTINF:-1 tvg-name="Zoom TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-Zoom-TV-en-vivo-Online-100x70.png", Zoom TV
+https://liveingesta118.cdnmedia.tv/canalzoomtvlive/smil:especialesweb01.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="City TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/06/City-TV-Colombia-en-vivo-Online-218x150.png", City TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1610752494/ei/js0BYOz1NKGdkAS3iq4Q/ip/190.157.45.25/id/SiEQEd6Smj0.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/beids/9466586/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgbEFwioCK72sHpxQZf1X0rNZ8IE_7wlvApPqDJxZivj8CIQDhdfED84Z7_mLhcFfZOWvXMH_ihLo-VHiDk0j8Tp_KDg%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-name="Apacibol TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Apacibol-TV-Canal-4-en-vivo-Online-218x150.png", Apacibol TV
+https://video-weaver.dfw02.hls.ttvnw.net/v1/playlist/Co8FRihRL339a5oFm5myCTArF9oTGk83fj-h_qM1gpDBlZRr9fZ79KaQZZEFVnxks936qg7czfqwkuwhePs8bMq3WANpbNY9zgCwGitayal8L7C39TTP0morQDQiiOpvSWpOfQGaZGNK6XE73Q1mwNejHvaTe-bN1-_WOqA-bdkGGGqMjs9aJ8KSzna-y7Zi6jtpgqLeNio6e1GLQdtuXChfx5E82Dr6XuJ2S216tHpJY4V-2nDdTURoAQs1zBJ_C79aDEC_gAChUVfmpPNlZddVesUfe-SqvwpeaWPoCM7tSFGTT7-STinNPbWk0yW_XkWN36NBGJ1Ihyzj92vWRAZUmw8l5z9TaXCYJa-VebYuJaeVdmz55QGGf_6rvDlW457RSDZPHTCb1CbpAejIgVHCcM7BiJ4hze_5vbeOjSJFuNU2700jWrcS98Apm22VzdGMGpyVH6_2Cir9MMOrmR6iBR6DxalEaS8NA6_72yv7oiUxpCU8_08ll1MD4Ykq0G7rRdeRUeoaKnpQBtMgnGqDLLDpbfidiMRSHWyZCS95U3TPJBapGo8X_1XyPWdH4-wCVVe4S3ORAGTNzDR6-4T2Z8Uq_7zg_b3LUD3a6hU0uPP1Fj0S1t6scdR_fehC0lctDGkuaKC9fSCJs2GrdH8ztpYPKgHkFi2Ix1oZScXia00AoGMHhz4mMW7YpanIvbIQWGMVpIOIl-TTGxTUZ6GPWNr72WVNZuT-ddCVvdQiqg2rFgIef_cRLg_hh4bICzKgwk-QAKlQY8lFjkLWeYnYlYjiU23PKjDwZ2Sk2qGqF-ACcri5SeCsj_tDl4sM5fN47Q4jWoUEu0KboEJH8rtWqSkYGZzzs90C9xVeXis-0RIQAt6bL67Xuncf4Mgji21QdhoM7nLYL0WBJueGwTJN.m3u8
+#EXTINF:-1 tvg-name=" 90 Minutos" tvg-logo="", 90 Minutos
+https://live-edge-mad-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/live-2500/index.m3u8
+#EXTINF:-1 tvg-name="Canal trece" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Canal-Trece-Colombia-en-vivo-Online-100x70.png", Canal trece
+https://liveingesta118.cdnmedia.tv/canaltrecelive/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Teleantioquia" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Teleantioquia-2-en-vivo-Online-218x150.png", Teleantioquia
+https://hdvideo2.cdn.net.co/live01/ta_720p.m3u8
+#EXTINF:-1 tvg-name="Telemedellin" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Telemedellin-en-vivo-Online-100x70.png", Telemedellin
+https://tna5.bozztv.com/telemedellin/index.m3u8
+#EXTINF:-1 tvg-name="Canal CNC Medellín" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/06/Canal-CNC-Medellin-en-vivo-Online-100x70.png", Canal CNC Medellín
+http://66.240.236.25:1936/canalcnc/canalcnc/chunklist_w1862829455.m3u8
+#EXTINF:-1 tvg-name="Teleenvigado" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/TeleEnvigado-en-vivo-Online-100x70.png", Teleenvigado
+http://66.240.236.25/hls-live/livepkgr/_definst_/liveevent/vivo.m3u8
+#EXTINF:-1 tvg-name="Tele VID" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Tele-VID-en-vivo-Online-100x70.png", Tele VID
+https://playback2.akamaized.net/streams/28238881_8574038_lsi7tbu38wjqlt5fihf_1/exp=1610825058~acl=%2f*~data=hdntl~hmac=15e4d37b31deb7ebdf37da4851863b2adf15ae7ce6df9352b9390a46f857a6b2/media/28238881_8574038_lsi7tbu38wjqlt5fihf_1@1756000p.m3u8?dw=14400&ts=1610737200
+#EXTINF:-1 tvg-name="Canal Acuario" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/03/Canal-Acuario-en-vivo-Online-100x70.png", Canal Acuario
+https://video-weaver.dfw02.hls.ttvnw.net/v1/playlist/CpEFDCjCxqXJEPydZ9Yo8c5lxLQppOR94vmn15sGkMoAw9nNFWYhGHRUUaaeDg2WSmg2f55MhDxs2HVeuSwm-Dy8OMtWj-9Uspfk4O7BpKx6mutKRBw7W6jVXJ8vx8aRsDm3KfHujBt0QdnaTLxoJrMU_d8FNTBzfRtlCWa7oVbj4tHkM3cNRPV7XIuNibbwVBXOv4qUCiw_xRYfq9ZBR_LuxKtEH_oMpCJQgGrfQFBAtIwknSWccri8Cx0vfe3y3IzlcmbM_8vNosOEXFGkhM2PISXOi4gqUqB1eP7GNtMcPcATIToMk-vSOHI45YJC8muKP7M2Fwh3qT4uDXycg4xgLhwHTkjvR2rRhj_zqK9ti3E_Yy-kyh9_PJ1mkhPF5NLfFWsmEUjvQZp1TBNNfSjM80Zmyw-uTzJFs9I1TP0s2O_t_9KyfOiWLqS-ijvNckbAQab15bqYQR-w1fKowUTdbTOyuYQHg6z6LRjLrgcEiOzr13iKjcrpBelHhRbAfUvXAiFMsnKA9q9bk3tNFotNCguim_7qXL9zzGy_dIG_8Q-QGDORyiBo2pStT2JTbTfBaDvY4QBlJ1o3OQgIHoFy9oI6_8RXoRZY-Iw-4XCXiPLstDL7I7VfIKNBvIjDR1kCS9yuM2wsFR2Q6BxRcYWhjja9QAKa7kmlEinO6dZmNZUiuE2YKSWVoHV12AWW8zfyN24iViMojqcs6Bm6KzprxMFjI1Apk3VFUZ2BBewgP6dqNQm8KhJArQb-Eeaol4UnulBFPZ35HQcgZQAUTh27xk0sPZoRnXpcr43OkcPFtWL9ybDgaqBKK9gnWg4A6HeCFW0jX79pat7KVX87_ihdAus0qs1p_-CHDtyMTBvmK7cqEhBR8qcevujmyCjLk0UG2jVIGgzc6nV-_UhdReJKcLA.m3u8
+#EXTINF:-1 tvg-name="Telepacifico" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Telepacifico-en-vivo-Online-100x70.png", Telepacifico
+https://stream.logicideas.media/telepacifico-live/smil:live.smil/chunklist_b4500000.m3u8
+#EXTINF:-1 tvg-name="Telecaribe" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/TeleCaribe-en-vivo-Online-100x70.png", Telecaribe
+https://telecaribe-hd.gcdn.anvato.net/hls/live/telecaribehd/2196k/index.m3u8
+#EXTINF:-1 tvg-name="CTV Barranquilla" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/07/CTV-Barranquilla-en-vivo-Online-100x70.png", CTV Barranquilla
+https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/chunklist_w1265030407.m3u8
+#EXTINF:-1 tvg-name="Teleislas" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Teleislas-en-vivo-Online-100x70.png", Teleislas
+http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Teleboyacá" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Teleboyaca-en-vivo-Online-100x70.png", Teleboyacá
+https://srv3.zcast.com.br/teleboyaca/teleboyaca/chunklist_w1382092117.m3u8
+#EXTINF:-1 tvg-name="Telepasto" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Telepasto-en-vivo-Online-100x70.png", Telepasto
+http://66.240.236.25:1936/telepasto/telepasto/chunklist_w815005894.m3u8
+#EXTINF:-1 tvg-name="Telecafé" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Telecafe-en-vivo-Online-100x70.png", Telecafé
+https://liveingesta118.cdnmedia.tv/telecafelive/smil:live.smil/chunklist_b2000000.m3u8
+#EXTINF:-1 tvg-name="Canal TRO" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Canal-Tro-en-vivo-Online-100x70.png", Canal TRO
+https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 2 CALI" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Canal-Dos-Cali-en-vivo-Online-100x70.png", Canal 2 CALI
+https://video13.virtualtronics.com/streamer/canal2_720/index.m3u8
+#EXTINF:-1 tvg-name="Vallevision" tvg-logo="https://vallevision.com.do/wp-content/uploads/2020/09/Vallevision-logo200.png", Vallevision
+https://streaming.telecablecentral.com.do/Vallevision/ValleHD/chunklist_w62664989.m3u8
+#EXTINF:-1 tvg-name="Univalle" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Univalle-TV-en-vivo-Online-100x70.png", Univalle
+https://dcunilive11-lh.akamaihd.net/i/dclive_1@149987/index_150_av-p.m3u8?sd=6&rebase=on&hdntl=exp=1610840413~acl=%2fi%2fdclive_1%40149987*~data=hdntl~hmac=c4e50ba72b0915308df50fec3e91afbba8fd4843cf5caa7b3f9fc9a4d405f4e1
+#EXTINF:-1 tvg-name="CALI TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/01/Cali-TV-en-directo-Online-100x70.png", CALI TV
+http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal C" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-C-Cali-en-vivo-Online-100x70.png", Canal C
+https://cloud2.streaminglivehd.com:1936/8104/8104/chunklist_w1289938627.m3u8
+#EXTINF:-1 tvg-name="TV AGRO" tvg-logo="http://tvagro.tv/wp-content/uploads/2017/08/Logo180.png", TV AGRO
+http://179.1.7.198:1935/live/TVAgroHD.stream_360p/chunklist_w842594670.m3u8
+#EXTINF:-1 tvg-name="ATN TELEVISION" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/ATN-Television-en-vivo-Online-100x70.png", ATN TELEVISION
+https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/chunklist_w1202066077.m3u8
+#EXTINF:-1 tvg-name="CMB TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/03/CMB-TV-Colombia-en-vivo-Online-100x70.png", CMB TV
+https://liveingesta118.cdnmedia.tv/bethesdalive/smil:live.smil/chunklist_b2000000.m3u8
+#EXTINF:-1 tvg-name="Telepetróleo" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Canal-Telepetroleo-en-vivo-Online-100x70.png", Telepetróleo
+https://edge.teveo.com.co/live/AeAAAgAIAAE7A1IAyADIXOgAZJgAAAAAAmAB78O-nS0ZAAAA/chunklist_w1023883508.m3u8
+#EXTINF:-1 tvg-name="Eduvision" tvg-logo="", Eduvision
+http://66.240.236.25:1936/eduvision/eduvision/chunklist_w364721581.m3u8
+#EXTINF:-1 tvg-name="Enlace TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Enlace-Television-en-vivo-Online-100x70.png", Enlace TV
+https://11554-1.b.cdn13.com/LiveHTTPOrigin/live/chunklist.m3u8
+#EXTINF:-1 tvg-name="Red+" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Red-M%C3%A1s-TV-Colombia-en-vivo-Online-100x70.png", Red+ 
+https://infored.lcdn.claro.net.co/Content/hls_clear/live/Channel(REDTVHD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-name="Cristovisión" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/03/Cristovisi%C3%B3n-en-vivo-Online-100x70.png", Cristovisión
+https://liveingesta118.cdnmedia.tv/cristovisionlive/smil:live.smil/chunklist_b750000.m3u8
+#EXTINF:-1 tvg-name="Telefamilia" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Canal-Telefamilia-en-vivo-Online-100x70.png", Telefamilia
+https://cloud2.streaminglivehd.com:1936/8116/8116/chunklist_w1971341179.m3u8
+#EXTINF:-1 tvg-name="Canal 12 Valledupar" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Canal-12-Valledupar-en-vivo-Online-100x70.png", Canal 12 Valledupar
+https://edge.teveo.com.co/live/AeAAAgAJAAFFA1IAyADIQCAAAAAAAAAAAmAB9ZW-nS0ZAAAA/chunklist_w1311326646.m3u8
+#EXTINF:-1 tvg-name="Canal CNC Pasto" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/CNC-Pasto-en-vivo-Online-100x70.png", Canal CNC Pasto
+http://66.240.236.25:1936/cncpasto/cncpasto/chunklist_w714463515.m3u8
+#EXTINF:-1 tvg-name="Canal DOCE Sincelejo" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-12-Sincelejo-en-vivo-Online-100x70.png", Canal DOCE Sincelejo
+https://playback2.akamaized.net/streams/27724665_8376416_lsiewtfcoia30vb5udx_1/exp=1610827785~acl=%2f*~data=hdntl~hmac=2f63b64e2e7b74a741b35dad94f6086d762d1a46e94235f83bd289a0a73cf417/media/27724665_8376416_lsiewtfcoia30vb5udx_1@2128000p.m3u8?dw=14400&ts=1610740800
+#EXTINF:-1 tvg-name="TDI Colombia" tvg-logo="https://www.tdicolombia.com.co/wp-content/uploads/2021/01/tdisf3.png", TDI Colombia
+https://servers.amelbasoluciones.co:19360/tdicolombia/tdicolombia.m3u8
+#EXTINF:-1 tvg-name="TNV Global" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/TVN-Global-en-vivo-Online-100x70.png", TNV Global
+https://stmv2.voxtvhd.com.br/tvnglobal/tvnglobal/chunklist_w650193044.m3u8
+#EXTINF:-1 tvg-name="ATV Colombia" tvg-logo="https://www.atvcolombia.com/wp-content/uploads/2020/10/A193Product-1-243x300.png", ATV Colombia
+https://cloud2.streaminglivehd.com:1936/atvcolombia/atvcolombia/chunklist_w1977977301.m3u8
