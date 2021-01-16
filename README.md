@@ -1,3 +1,3 @@
-# iptv-tdt-colombia
-IPTV de canales colombianos de tv abierta
+# Lista IPTV Colombia by juansebastian028
+IPTV de canales colombianos de televisión abierta
 Link: http://tiny.cc/kn78tz
