@@ -81,7 +81,7 @@ https://liveingesta118.cdnmedia.tv/telecafelive/smil:live.smil/chunklist_b200000
 #EXTINF:-1 tvg-name="Canal TRO" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Canal-Tro-en-vivo-Online-100x70.png", Canal TRO
 https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/chunklist_b900000.m3u8
 
-#EXTINF:-1 tvg-name="Canal TRO V2" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Canal-Tro-en-vivo-Online-100x70.png", Canal TRO
+#EXTINF:-1 tvg-name="Canal TRO V2" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Canal-Tro-en-vivo-Online-100x70.png", Canal TRO V2
 https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/chunklist_b2000000.m3u8
 
 #EXTINF:-1 tvg-name="Canal 2 Cali" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Canal-Dos-Cali-en-vivo-Online-100x70.png", Canal 2 Cali
