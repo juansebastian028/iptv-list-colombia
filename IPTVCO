@@ -24,7 +24,7 @@ http://vcp1.myplaytv.com:1935/mundomas/mundomas/chunklist_w433194687.m3u8
 #EXTINF:-1 tvg-name="Canal Capital" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Canal-Capital-en-vivo-Online-100x70.png", Canal Capital
 https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
 
-#EXTINF:-1 tvg-name="Zoom TV V1" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-Zoom-TV-en-vivo-Online-100x70.png", Zoom TV V1
+#EXTINF:-1 tvg-name="Zoom TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-Zoom-TV-en-vivo-Online-100x70.png", Zoom TV
 https://liveingesta118.cdnmedia.tv/canalzoomtvlive/smil:especialesweb01.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Zoom TV V2" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-Zoom-TV-en-vivo-Online-100x70.png", Zoom TV V2
@@ -41,9 +41,6 @@ https://liveingesta118.cdnmedia.tv/canaltrecelive/smil:live.smil/chunklist_b2000
 
 #EXTINF:-1 tvg-name="Teleantioquia" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Teleantioquia-2-en-vivo-Online-218x150.png", Teleantioquia
 https://hdvideo2.cdn.net.co/live01/ta_720p.m3u8
-
-#EXTINF:-1 tvg-name="Teleantioquia 2" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Teleantioquia-2-en-vivo-Online-218x150.png", Teleantioquia 2
-https://livestream-f.akamaihd.net/i/9427524_9218517_10708579_1@413904/index_2628_av-p.m3u8?sd=4&dw=14400&set-segment-duration=responsive&rebase=on&hdntl=exp=1610848451~acl=%2fi%2f9427524_9218517_10708579_1%40413904%2f*~data=hdntl~hmac=8f9b2ff07be82d88a060dd64bdc584bae51ea1c87b893e2fa99b238d2eecccf7
 
 #EXTINF:-1 tvg-name="Telemedellín" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Telemedellin-en-vivo-Online-100x70.png", Telemedellín
 https://tna5.bozztv.com/telemedellin/index.m3u8
@@ -82,7 +79,10 @@ http://66.240.236.25:1936/telepasto/telepasto/chunklist_w815005894.m3u8
 https://liveingesta118.cdnmedia.tv/telecafelive/smil:live.smil/chunklist_b2000000.m3u8
 
 #EXTINF:-1 tvg-name="Canal TRO" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Canal-Tro-en-vivo-Online-100x70.png", Canal TRO
-https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/master.m3u8
+https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/chunklist_b900000.m3u8
+
+#EXTINF:-1 tvg-name="Canal TRO V2" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Canal-Tro-en-vivo-Online-100x70.png", Canal TRO
+https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/chunklist_b2000000.m3u8
 
 #EXTINF:-1 tvg-name="Canal 2 Cali" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Canal-Dos-Cali-en-vivo-Online-100x70.png", Canal 2 Cali
 https://video13.virtualtronics.com/streamer/canal2_720/index.m3u8
