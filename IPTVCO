@@ -7,9 +7,15 @@ https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
 http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
 
 #EXTINF:-1 tvg-name="RCN" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Canal-RCN-en-vivo-Online-218x150.png", RCN
+https://stream-02.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZUf0GWZ6cgqcQTdHgScgI9c)/dm/3/x7vyv0z/s/live-1.m3u8
+
+#EXTINF:-1 tvg-name="RCN V2" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Canal-RCN-en-vivo-Online-218x150.png", RCN V2
 https://stream-02.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZUf0GWZ6cgqcQTdHgScgI9c)/dm/3/x7vyv0z/s/live-3.m3u8
 
 #EXTINF:-1 tvg-name="NTN24" tvg-logo="https://html.canalrcn.com/CanalRCN/react/home-v2/img/ntn24-logo.png", NTN24
+https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAlx1XbdT77eKjvbInw-N37MQ)/dm/3/x7w4okl/s/live-2.m3u8
+
+#EXTINF:-1 tvg-name="NTN24 V2" tvg-logo="https://html.canalrcn.com/CanalRCN/react/home-v2/img/ntn24-logo.png", NTN24 V2
 https://stream-03.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAlx1XbdT77eKjvbInw-N37MQ)/dm/3/x7w4okl/s/live-3.m3u8
 
 #EXTINF:-1 tvg-name="Señal Colombia" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Senal-Colombia-en-vivo-en-Directo-218x150.png", Señal Colombia
