@@ -120,8 +120,29 @@ https://cloud2.streaminglivehd.com:1936/8116/8116/chunklist_w1971341179.m3u8
 #EXTINF:-1 tvg-name="Canal 12 Valledupar" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Canal-12-Valledupar-en-vivo-Online-100x70.png" group-title="Cesar", Canal 12 Valledupar
 https://edge.teveo.com.co/live/AeAAAgAJAAFFA1IAyADIQCAAAAAAAAAAAmAEWLa-nS0ZAAAA/chunklist_w653228597.m3u8
 
-#EXTINF:-1 tvg-name="Canal CNC Pasto" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/CNC-Pasto-en-vivo-Online-100x70.png" group-title="Nariño", Canal CNC Pasto
+#EXTINF:-1 tvg-name="CNC Pasto" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/CNC-Pasto-en-vivo-Online-100x70.png" group-title="Nariño", CNC Pasto
 http://66.240.236.25:1936/cncpasto/cncpasto/chunklist_w714463515.m3u8
+
+#EXTINF:-1 tvg-name="CNC HD Pasto" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/CNC-Pasto-en-vivo-Online-100x70.png" group-title="Nariño", CNC HD Pasto
+http://66.240.236.25:1936/popular/popular/chunklist_w189537930.m3u8
+
+#EXTINF:-1 tvg-name="Galeras TV" tvg-logo="" group-title="Nariño", Galeras TV
+http://pastocnc1.ddns.net:1935/pastocnc8/cnc8/chunklist_w1893485670.m3u8
+
+#EXTINF:-1 tvg-name="Hits Channel" tvg-logo="" group-title="Nariño", Hits Channel
+http://pastocnc1.ddns.net:1935/pastocnc1/cnc1/chunklist_w95578596.m3u8
+
+#EXTINF:-1 tvg-name="Son Corazón" tvg-logo="" group-title="Nariño", Son Corazón
+http://pastocnc1.ddns.net:1935/pastocnc3/cnc3/chunklist_w421403006.m3u8
+
+#EXTINF:-1 tvg-name="Sentimiento Vallenato" tvg-logo="" group-title="Nariño", Sentimiento Vallenato
+http://pastocnc1.ddns.net:1935/pastocnc4/cnc4/chunklist_w358507733.m3u8
+
+#EXTINF:-1 tvg-name="Son Latino" tvg-logo="" group-title="Nariño", Son Latino
+http://pastocnc1.ddns.net:1935/pastocnc2/cnc2/chunklist_w1970667696.m3u8
+
+#EXTINF:-1 tvg-name="Son Popular" tvg-logo="" group-title="Nariño", Son Popular
+http://pastocnc1.ddns.net:1935/pastocnc7/cnc7/chunklist_w1589801481.m3u8
 
 #EXTINF:-1 tvg-name="Canal DOCE Sincelejo" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-12-Sincelejo-en-vivo-Online-100x70.png" group-title="Sucre", Canal DOCE Sincelejo
 http://api.new.livestream.com/accounts/27724665/events/8376416/live.m3u8
