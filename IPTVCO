@@ -27,6 +27,14 @@ https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b1
 #EXTINF:-1 tvg-name="Canal Institucional" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Canal-Institucional-Colombia-en-vivo-Online-218x150.png", Canal Institucional
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/chunklist_b1500000.m3u8
 
+#EXTINF:-1 tvg-name="Canal Trece" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Canal-Trece-Colombia-en-vivo-Online-100x70.png", Canal Trece
+#EXTVLCOPT:http-user-agent=IPTVCO#CrKeyTDT#
+https://liveingesta118.cdnmedia.tv/canaltrecelive/smil:live.smil/chunklist_b2000000.m3u8
+
+#EXTINF:-1 tvg-name="Canal Trece V2" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Canal-Trece-Colombia-en-vivo-Online-100x70.png", Canal Trece V2
+#EXTVLCOPT:http-user-agent=IPTVCO#CrKeyTDT#
+https://liveingesta118.cdnmedia.tv/canaltrecelive/smil:live.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Mundo+" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/03/Canal-Mundo-Colombia-en-vivo-Online-100x70.png", Mundo+
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/chunklist_w433194687.m3u8
 
@@ -66,6 +74,10 @@ https://srv3.zcast.com.br/teleboyaca/teleboyaca/chunklist_w1382092117.m3u8
 #EXTINF:-1 tvg-name="Telepasto" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Telepasto-en-vivo-Online-100x70.png", Telepasto
 http://66.240.236.25:1936/telepasto/telepasto/chunklist_w815005894.m3u8
 
+#EXTINF:-1 tvg-name="Telecafé" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Telecafe-en-vivo-Online-100x70.png", Telecafé
+#EXTVLCOPT:http-user-agent=IPTVCO#CrKeyTDT#
+https://liveingesta118.cdnmedia.tv/telecafelive/smil:live.smil/chunklist_b2000000.m3u8
+
 #EXTINF:-1 tvg-name="Canal TRO" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Canal-Tro-en-vivo-Online-100x70.png", Canal TRO
 #EXTVLCOPT:http-user-agent=IPTVCO#CrKeyTDT#
 https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/master.m3u8
@@ -73,6 +85,10 @@ https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/master.m3u8
 #EXTINF:-1 tvg-name="Canal TRO V2" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Canal-Tro-en-vivo-Online-100x70.png", Canal TRO V2
 #EXTVLCOPT:http-user-agent=IPTVCO#CrKeyTDT#
 https://liveingesta119.cdnmedia.tv/canaltro2live/smil:live.smil/master.m3u8
+
+#EXTINF:-1 tvg-name="Canal TRO V3" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Canal-Tro-en-vivo-Online-100x70.png", Canal TRO V3
+#EXTVLCOPT:http-user-agent=IPTVCO#CrKeyTDT#
+https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/chunklist_b2000000.m3u8
 
 #EXTINF:-1 tvg-name="Canal 2 Cali" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Canal-Dos-Cali-en-vivo-Online-100x70.png", Canal 2 Cali
 https://video13.virtualtronics.com/streamer/canal2_720/index.m3u8
@@ -151,6 +167,10 @@ https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Tele VID" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Tele-VID-en-vivo-Online-100x70.png", Tele VID
 https://api.new.livestream.com/accounts/28238881/events/8574038/live.m3u8
+
+#EXTINF:-1 tvg-name="Cristovisión" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/03/Cristovisi%C3%B3n-en-vivo-Online-100x70.png", Cristovisión
+#EXTVLCOPT:http-user-agent=IPTVCO#CrKeyTDT#
+https://liveingesta118.cdnmedia.tv/cristovisionlive/smil:live.smil/chunklist_b750000.m3u8
 
 #EXTINF:-1 tvg-name="Visión Dorada" tvg-logo="", Visión Dorada
 https://movil.ejeserver.com/live/visiondorada.m3u8
