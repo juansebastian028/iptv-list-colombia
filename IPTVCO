@@ -4,22 +4,16 @@
 https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
 
 #EXTINF:-1 tvg-name="RCN" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Canal-RCN-en-vivo-Online-218x150.png", RCN
-https://stream-02.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZUf0GWZ6cgqcQTdHgScgI9c)/dm/3/x7vyv0z/s/live-1.m3u8
+https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZUf0GWZ6cgqcQTdHgScgI9c)/dm/3/x7vyv0z/s/live-3.m3u8
 
 #EXTINF:-1 tvg-name="RCN V2" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Canal-RCN-en-vivo-Online-218x150.png", RCN V2
-https://stream-02.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZUf0GWZ6cgqcQTdHgScgI9c)/dm/3/x7vyv0z/s/live-2.m3u8
-
-#EXTINF:-1 tvg-name="RCN V3" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Canal-RCN-en-vivo-Online-218x150.png", RCN V3
-https://stream-02.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZUf0GWZ6cgqcQTdHgScgI9c)/dm/3/x7vyv0z/s/live-3.m3u8
+https://stream-04.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZUf0GWZ6cgqcQTdHgScgI9c)/dm/3/x7vyv0z/s/live-3.m3u8
 
 #EXTINF:-1 tvg-name="NTN24" tvg-logo="https://html.canalrcn.com/CanalRCN/react/home-v2/img/ntn24-logo.png", NTN24
-https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAlx1XbdT77eKjvbInw-N37MQ)/dm/3/x7w4okl/s/live-1.m3u8
+https://stream-02.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAlx1XbdT77eKjvbInw-N37MQ)/dm/3/x7w4okl/s/live-3.m3u8
 
 #EXTINF:-1 tvg-name="NTN24 V2" tvg-logo="https://html.canalrcn.com/CanalRCN/react/home-v2/img/ntn24-logo.png", NTN24 V2
-https://stream-02.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAlx1XbdT77eKjvbInw-N37MQ)/dm/3/x7w4okl/s/live-1.m3u8
-
-#EXTINF:-1 tvg-name="NTN24 V3" tvg-logo="https://html.canalrcn.com/CanalRCN/react/home-v2/img/ntn24-logo.png", NTN24 V3
-https://stream-03.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAlx1XbdT77eKjvbInw-N37MQ)/dm/3/x7w4okl/s/live-1.m3u8
+https://stream-04.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAlx1XbdT77eKjvbInw-N37MQ)/dm/3/x7w4okl/s/live-3.m3u8
 
 #EXTINF:-1 tvg-name="Señal Colombia" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Senal-Colombia-en-vivo-en-Directo-218x150.png", Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b1500000.m3u8
@@ -171,6 +165,13 @@ https://api.new.livestream.com/accounts/28238881/events/8574038/live.m3u8
 #EXTINF:-1 tvg-name="Cristovisión" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/03/Cristovisi%C3%B3n-en-vivo-Online-100x70.png", Cristovisión
 #EXTVLCOPT:http-user-agent=IPTVCO#CrKeyTDT#
 https://liveingesta118.cdnmedia.tv/cristovisionlive/smil:live.smil/chunklist_b750000.m3u8
+
+#EXTINF:-1 tvg-name="Zoom TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-Zoom-TV-en-vivo-Online-100x70.png", Zoom TV
+#EXTVLCOPT:http-user-agent=IPTVCO#CrKeyTDT#
+https://liveingesta118.cdnmedia.tv/canalzoomtvlive/smil:streamingcanalzoom.smil/chunklist_b700000.m3u8
+
+#EXTINF:-1 tvg-name="Alpavisión Neiva" tvg-logo="https://alpavision.com.co/wp-content/uploads/2019/09/logo-web-550px-01-sinhd.png", Alpavisión Neiva
+https://cloud2.streaminglivehd.com:1936/8102/8102/chunklist_w1862021639.m3u8
 
 #EXTINF:-1 tvg-name="Visión Dorada" tvg-logo="", Visión Dorada
 https://movil.ejeserver.com/live/visiondorada.m3u8
