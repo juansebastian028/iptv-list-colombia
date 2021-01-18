@@ -68,7 +68,7 @@ https://srv3.zcast.com.br/teleboyaca/teleboyaca/chunklist_w1382092117.m3u8
 #EXTINF:-1 tvg-name="Telepasto" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Telepasto-en-vivo-Online-100x70.png" group-title="Nariño", Telepasto
 http://66.240.236.25:1936/telepasto/telepasto/chunklist_w815005894.m3u8
 
-#EXTINF:-1 tvg-name="Telecafé" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Telecafe-en-vivo-Online-100x70.png" group-title="Eje cafetero", Telecafé
+#EXTINF:-1 tvg-name="Telecafé" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Telecafe-en-vivo-Online-100x70.png" group-title="Caldas", Telecafé
 #EXTVLCOPT:http-user-agent=IPTVCO#CrKeyTDT#
 https://liveingesta118.cdnmedia.tv/telecafelive/smil:live.smil/chunklist_b2000000.m3u8
 
@@ -84,7 +84,7 @@ https://liveingesta119.cdnmedia.tv/canaltro2live/smil:live.smil/master.m3u8
 #EXTVLCOPT:http-user-agent=IPTVCO#CrKeyTDT#
 https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/chunklist_b2000000.m3u8
 
-#EXTINF:-1 tvg-name="Canal 2 Cali" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Canal-Dos-Cali-en-vivo-Online-100x70.png" group-title="Valle del Cauca", Canal 2 Cali
+#EXTINF:-1 tvg-name="Canal 2" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Canal-Dos-Cali-en-vivo-Online-100x70.png" group-title="Valle del Cauca", Canal 2
 https://video13.virtualtronics.com/streamer/canal2_720/index.m3u8
 
 #EXTINF:-1 tvg-name="Cali TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/01/Cali-TV-en-directo-Online-100x70.png" group-title="Valle del Cauca", Cali TV
@@ -138,13 +138,13 @@ http://pastocnc1.ddns.net:1935/pastocnc7/cnc7/chunklist_w1589801481.m3u8
 #EXTINF:-1 tvg-name="Canal DOCE Sincelejo" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-12-Sincelejo-en-vivo-Online-100x70.png" group-title="Sucre", Canal DOCE Sincelejo
 http://api.new.livestream.com/accounts/27724665/events/8376416/live.m3u8
 
-#EXTINF:-1 tvg-name="TDI Colombia" tvg-logo="https://www.tdicolombia.com.co/wp-content/uploads/2021/01/tdisf3.png" group-title="Nacionales", TDI Colombia
+#EXTINF:-1 tvg-name="TDI Colombia" tvg-logo="https://www.tdicolombia.com.co/wp-content/uploads/2021/01/tdisf3.png" group-title="Meta", TDI Colombia
 https://servers.amelbasoluciones.co:19360/tdicolombia/tdicolombia.m3u8
 
 #EXTINF:-1 tvg-name="TVN Global" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/TVN-Global-en-vivo-Online-100x70.png" group-title="Antioquia", TVN Global
 https://stmv2.voxtvhd.com.br/tvnglobal/tvnglobal/chunklist_w650193044.m3u8
 
-#EXTINF:-1 tvg-name="ATV Colombia" tvg-logo="https://www.atvcolombia.com/wp-content/uploads/2020/10/A193Product-1-243x300.png" group-title="Nacionales", ATV Colombia
+#EXTINF:-1 tvg-name="ATV Colombia" tvg-logo="https://www.atvcolombia.com/wp-content/uploads/2020/10/A193Product-1-243x300.png" group-title="Cundinamarca", ATV Colombia
 https://cloud2.streaminglivehd.com:1936/atvcolombia/atvcolombia/chunklist_w1977977301.m3u8
 
 #EXTINF:-1 tvg-name="Avivamiento TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/03/Avivamiento-TV-en-vivo-Online-100x70.png" group-title="Bogotá", Avivamiento TV
