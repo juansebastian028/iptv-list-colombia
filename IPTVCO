@@ -96,10 +96,10 @@ https://cloud2.streaminglivehd.com:1936/8104/8104/chunklist_w1289938627.m3u8
 #EXTINF:-1 tvg-name="Multicanal" tvg-logo="https://i1.wp.com/multicanaltvcali.com/wp-content/uploads/2018/07/logo400.png?w=1080" group-title="Valle del Cauca", Multicanal
 https://cloud2.streaminglivehd.com:1936/8010/8010/chunklist_w2045509253.m3u8
 
-#EXTINF:-1 tvg-name="TV AGRO" tvg-logo="http://tvagro.tv/wp-content/uploads/2017/08/Logo180.png" group-title="Nacionales", TV AGRO
+#EXTINF:-1 tvg-name="TV Agro" tvg-logo="http://tvagro.tv/wp-content/uploads/2017/08/Logo180.png" group-title="Nacionales", TV Agro
 http://179.1.7.198:1935/live/TVAgroHD.stream_360p/chunklist_w842594670.m3u8
 
-#EXTINF:-1 tvg-name="ATN TELEVISION" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/ATN-Television-en-vivo-Online-100x70.png" group-title="Santander", ATN TELEVISION
+#EXTINF:-1 tvg-name="ATN TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/ATN-Television-en-vivo-Online-100x70.png" group-title="Santander", ATN TV
 https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/chunklist_w1202066077.m3u8
 
 #EXTINF:-1 tvg-name="CMB TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/03/CMB-TV-Colombia-en-vivo-Online-100x70.png" group-title="Bogotá", CMB TV
@@ -147,16 +147,13 @@ https://stmv2.voxtvhd.com.br/tvnglobal/tvnglobal/chunklist_w650193044.m3u8
 #EXTINF:-1 tvg-name="ATV Colombia" tvg-logo="https://www.atvcolombia.com/wp-content/uploads/2020/10/A193Product-1-243x300.png" group-title="Nacionales", ATV Colombia
 https://cloud2.streaminglivehd.com:1936/atvcolombia/atvcolombia/chunklist_w1977977301.m3u8
 
-#EXTINF:-1 tvg-name="Avivamiento TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/03/Avivamiento-TV-en-vivo-Online-100x70.png" group-title="Nacionales", Avivamiento TV
+#EXTINF:-1 tvg-name="Avivamiento TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/03/Avivamiento-TV-en-vivo-Online-100x70.png" group-title="Bogotá", Avivamiento TV
 https://s2.abntelevision.com/avivamientohd/avivamientohd/playlist.m3u8
 
-#EXTINF:-1 tvg-name="PSC TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/PSC-Television-en-vivo-Online-100x70.png" group-title="Nacionales", PSC TV
+#EXTINF:-1 tvg-name="PSC TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/PSC-Television-en-vivo-Online-100x70.png" group-title="Valle del Cauca", PSC TV
 https://srv2.zcast.com.br/psctv2/psctv2/chunklist_w1382730217.m3u8
 
-#EXTINF:-1 tvg-name="Top Latino TV" tvg-logo="https://toplatino.net/wp-content/uploads/2019/04/cropped-LogoTL-300-new-9.png" group-title="Nacionales", Top Latino TV
-https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/chunklist_w1023822883.m3u8
-
-#EXTINF:-1 tvg-name="Campo TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/03/Canal-Campo-TV-en-vivo-Online-100x70.png" group-title="Nacionales", Campo TV
+#EXTINF:-1 tvg-name="Campo TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/03/Canal-Campo-TV-en-vivo-Online-100x70.png" group-title="Magdalena", Campo TV
 https://video17.virtualtronics.com/streamer/canalcampotv_720p2628kbs/index.m3u8
 
 #EXTINF:-1 tvg-name="Telesantiago Tunja" tvg-logo="https://canaltelesantiago.com/templates/yootheme/cache/logo-78a3ecbc.png" group-title="Boyacá", Telesantiago Tunja
@@ -179,8 +176,8 @@ https://liveingesta118.cdnmedia.tv/canalzoomtvlive/smil:streamingcanalzoom.smil/
 #EXTINF:-1 tvg-name="Alpavisión Neiva" tvg-logo="https://alpavision.com.co/wp-content/uploads/2019/09/logo-web-550px-01-sinhd.png" group-title="Huila", Alpavisión Neiva
 https://cloud2.streaminglivehd.com:1936/8102/8102/chunklist_w1862021639.m3u8
 
-#EXTINF:-1 tvg-name="Visión Dorada" tvg-logo="" group-title="Nacionales", Visión Dorada
+#EXTINF:-1 tvg-name="Visión Dorada" tvg-logo="https://www.canalvisiondorada.com.co/images/NUEVO-LOGO-CANAL-VISION-DORADA.png" group-title="Caldas", Visión Dorada
 https://movil.ejeserver.com/live/visiondorada.m3u8
 
-#EXTINF:-1 tvg-name="Eduvisión" tvg-logo="" group-title="Nacionales", Eduvisión
+#EXTINF:-1 tvg-name="Eduvisión" tvg-logo="Antioquia" group-title="Nacionales", Eduvisión
 http://66.240.236.25:1936/eduvision/eduvision/chunklist_w364721581.m3u8
