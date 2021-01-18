@@ -179,5 +179,8 @@ https://cloud2.streaminglivehd.com:1936/8102/8102/chunklist_w1862021639.m3u8
 #EXTINF:-1 tvg-name="Visión Dorada" tvg-logo="https://www.canalvisiondorada.com.co/images/NUEVO-LOGO-CANAL-VISION-DORADA.png" group-title="Caldas", Visión Dorada
 https://movil.ejeserver.com/live/visiondorada.m3u8
 
+#EXTINF:-1 tvg-name="TV Gracia" tvg-logo="https://www.tvgracia.com/assets/images/tvgracia-espanol-blanco-logo2020-108x119.png" group-title="Bogotá", TV Gracia
+https://streamyes.alsolnet.com/tvgracia/live/chunklist_w989608216.m3u8
+
 #EXTINF:-1 tvg-name="Eduvisión" tvg-logo="" group-title="Antioquia", Eduvisión
 http://66.240.236.25:1936/eduvision/eduvision/chunklist_w364721581.m3u8
