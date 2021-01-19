@@ -47,6 +47,12 @@ https://hdvideo2.cdn.net.co/live01/ta_720p.m3u8
 #EXTINF: -1 tvg-name="Telemedellín" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Telemedellin-en-vivo-Online-100x70.png" group-title="Antioquia", Telemedellín
 https://telemedellin-live.logicideas.media/telemedellin-live/smil:live.smil/chunklist_b4500000.m3u8
 
+#EXTINF: -1 tvg-name="Telemedellín V2" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Telemedellin-en-vivo-Online-100x70.png" group-title="Antioquia", Telemedellín V2
+https://telemedellin-live.logicideas.media/telemedellin-live/smil:live.smil/chunklist_b2250000.m3u8
+
+#EXTINF: -1 tvg-name="Telemedellín V3" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Telemedellin-en-vivo-Online-100x70.png" group-title="Antioquia", Telemedellín V3
+https://telemedellin-live.logicideas.media/telemedellin-live/smil:live.smil/chunklist_b900000.m3u8
+
 #EXTINF:-1 tvg-name="Canal CNC Medellín" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/06/Canal-CNC-Medellin-en-vivo-Online-100x70.png" group-title="Antioquia", Canal CNC Medellín
 http://66.240.236.25:1936/canalcnc/canalcnc/chunklist_w1862829455.m3u8
 
