@@ -130,7 +130,7 @@ https://srv2.zcast.com.br/psctv2/psctv2/chunklist_w1382730217.m3u8
 #EXTINF:-1 tvg-name="Telepasto" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Telepasto-en-vivo-Online-100x70.png" group-title="Nariño", Telepasto
 http://66.240.236.25:1936/telepasto/telepasto/chunklist_w815005894.m3u8
 
-EXTINF:-1 tvg-name="CNC Pasto" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/CNC-Pasto-en-vivo-Online-100x70.png" group-title="Nariño", CNC Pasto
+#EXTINF:-1 tvg-name="CNC Pasto" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/CNC-Pasto-en-vivo-Online-100x70.png" group-title="Nariño", CNC Pasto
 http://66.240.236.25:1936/cncpasto/cncpasto/chunklist_w1689310829.m3u8
 
 #EXTINF:-1 tvg-name="CNC Pasto HD" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/CNC-Pasto-en-vivo-Online-100x70.png" group-title="Nariño", CNC Pasto HD
