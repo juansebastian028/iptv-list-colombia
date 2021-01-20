@@ -1,25 +1,25 @@
 #EXTM3U
 
-#EXTINF: -1 tvg-name="RT TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/125px-Russia-today-logo.svg.png" group-title="Internacionales", RT TV Español (Rusia)
+#EXTINF: -1 tvg-name="RT TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/125px-Russia-today-logo.svg.png" group-title="Internacionales", RT Español
 https://rt-esp-gd.secure2.footprint.net/1102_2500Kb.m3u8
 
-#EXTINF: -1 tvg-name="DW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/125px-Deutsche_Welle_symbol_2012.svg.png" group-title="Internacionales", DW Español (Alemania)
+#EXTINF: -1 tvg-name="DW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/125px-Deutsche_Welle_symbol_2012.svg.png" group-title="Internacionales", DW Español
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 
-#EXTINF: -1 tvg-name="France 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/125px-France24.png" group-title="Internacionales", France 24 Español (Francia)
+#EXTINF: -1 tvg-name="France 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/125px-France24.png" group-title="Internacionales", France 24
 https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
 
-#EXTINF: -1 tvg-name="Hispan TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HispanTv_logo.svg/100px-HispanTv_logo.svg.png" group-title="Internacionales", Hispan TV Español (Irán)
+#EXTINF: -1 tvg-name="Hispan TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HispanTv_logo.svg/100px-HispanTv_logo.svg.png" group-title="Internacionales", Hispan TV
 https://live.presstv.com/live/smil:live.smil/chunklist_w228923649_b644100_slen.m3u8
 
 #EXTINF:-1 tvg-name="Caracol" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Canal-Caracol-TV-en-vivo-Online-218x150.png" group-title="Nacionales", Caracol
 https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
 
 #EXTINF:-1 tvg-name="RCN" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Canal-RCN-en-vivo-Online-218x150.png" group-title="Nacionales", RCN
-https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZUf0GWZ6cgqcQTdHgScgI9c)/dm/3/x7vyv0z/s/live-3.m3u8
+https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12Zf-smtyyoyzBj4ZNevvdluY)/dm/3/x7vyv0z/s/live-3.m3u8
 
 #EXTINF:-1 tvg-name="RCN V2" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Canal-RCN-en-vivo-Online-218x150.png" group-title="Nacionales", RCN V2
-https://stream-04.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZUf0GWZ6cgqcQTdHgScgI9c)/dm/3/x7vyv0z/s/live-3.m3u8
+https://stream-04.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12Zf-smtyyoyzBj4ZNevvdluY)/dm/3/x7vyv0z/s/live-3.m3u8
 
 #EXTINF:-1 tvg-name="NTN24" tvg-logo="https://html.canalrcn.com/CanalRCN/react/home-v2/img/ntn24-logo.png" group-title="Nacionales", NTN24
 https://stream-02.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAlx1XbdT77eKjvbInw-N37MQ)/dm/3/x7w4okl/s/live-3.m3u8
@@ -205,4 +205,3 @@ https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Alpavisión Neiva" tvg-logo="https://alpavision.com.co/wp-content/uploads/2019/09/logo-web-550px-01-sinhd.png" group-title="Huila", Alpavisión Neiva
 https://cloud2.streaminglivehd.com:1936/8102/8102/chunklist_w1862021639.m3u8
-
