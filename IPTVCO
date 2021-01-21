@@ -12,7 +12,13 @@ https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
 #EXTINF: -1 tvg-name="Hispan TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HispanTv_logo.svg/100px-HispanTv_logo.svg.png" group-title="Internacionales", Hispan TV
 https://live.presstv.com/live/smil:live.smil/chunklist_w228923649_b644100_slen.m3u8
 
-#EXTINF:-1 tvg-name="Caracol" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Canal-Caracol-TV-en-vivo-Online-218x150.png" group-title="Nacionales", Caracol
+#EXTINF:-1 tvg-name="Zee Mundo" tvg-logo="https://zeemundo.com/wp-content/uploads/2018/06/logo-120.png" group-title="Internacionales", Zee Mundo
+https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8
+
+#EXTINF:-1 tvg-name="CGTN Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/CGTN_Espanol.png/180px-CGTN_Espanol.png" group-title="Internacionales", CGTN Español
+https://livees.cgtn.com/1000e/prog_index.m3u8
+
+#EXTINF:-1 tvg-name="Noticias Caracol Ahora" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Canal-Caracol-TV-en-vivo-Online-218x150.png" group-title="Nacionales", Noticias Caracol Ahora
 https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
 
 #EXTINF:-1 tvg-name="RCN" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Canal-RCN-en-vivo-Online-218x150.png" group-title="Nacionales", RCN
@@ -96,6 +102,9 @@ https://api.new.livestream.com/accounts/28238881/events/8574038/live.m3u8
 
 #EXTINF:-1 tvg-name="Eduvisión" tvg-logo="" group-title="Antioquia", Eduvisión
 http://66.240.236.25:1936/eduvision/eduvision/chunklist_w364721581.m3u8
+
+#EXTINF:-1 tvg-name="TV Peñol" tvg-logo="https://static.wixstatic.com/media/ddf45e_5d497329920543eea64b6b710967480c~mv2.png/v1/fill/w_153,h_91,al_c,q_85,usm_0.66_1.00_0.01/ddf45e_5d497329920543eea64b6b710967480c~mv2.webp" group-title="Antioquia", TV Peñol
+https://cloud2.streaminglivehd.com:1936/8118/8118/chunklist_w1824411725.m3u8
 
 #EXTINF:-1 tvg-name="UAOPlay TV" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/03/UAOPlay-TV-en-vivo-Online-100x70.png" group-title="Valle del Cauca", UAOPlay TV
 https://live-edge-lon-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC023/live-1500/index.m3u8
@@ -205,3 +214,7 @@ https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Alpavisión Neiva" tvg-logo="https://alpavision.com.co/wp-content/uploads/2019/09/logo-web-550px-01-sinhd.png" group-title="Huila", Alpavisión Neiva
 https://cloud2.streaminglivehd.com:1936/8102/8102/chunklist_w1862021639.m3u8
+
+
+#EXTINF:-1 tvg-name="PyC" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2020/10/PyC-Television-en-vivo-Online-100x70.png" group-title="Tolima", PyC
+https://byecableiptv.com/canapycvivo/canalpyc.stream/chunklist_w689691487.m3u8
