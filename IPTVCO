@@ -242,9 +242,6 @@ http://api.new.livestream.com/accounts/27724665/events/8376416/live.m3u8
 #EXTINF:-1 tvg-name="ATV Colombia" tvg-logo="https://www.atvcolombia.com/wp-content/uploads/2020/10/A193Product-1-243x300.png" group-title="Cundinamarca", ATV Colombia
 https://cloud2.streaminglivehd.com:1936/atvcolombia/atvcolombia/chunklist_w1977977301.m3u8
 
-#EXTINF:-1 tvg-name="ATV Colombia" tvg-logo="https://www.atvcolombia.com/wp-content/uploads/2020/10/A193Product-1-243x300.png" group-title="Cundinamarca", ATV Colombia
-https://edge1o.live.opencaster.com/caster/qFfwjDydEytF.m3u8
-
 #EXTINF:-1 tvg-name="Campo TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/03/Canal-Campo-TV-en-vivo-Online-100x70.png" group-title="Magdalena", Campo TV
 https://video17.virtualtronics.com/streamer/canalcampotv_720p2628kbs/index.m3u8
 
