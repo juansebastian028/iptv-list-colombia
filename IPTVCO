@@ -18,23 +18,71 @@ https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8
 #EXTINF:-1 tvg-name="CGTN Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/CGTN_Espanol.png/180px-CGTN_Espanol.png" group-title="Internacionales", CGTN Español
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
-#EXTINF:-1 tvg-name="GOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/200px-Gol.svg.png" group-title="Internacionales", GOL
-http://91.126.141.12:1935/live/smil:gol.smil/chunklist_w1294517591_b3128000_sleng.m3u8
+#EXTINF:-1 tvg-name="Telesur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/150px-TeleSUR-Logo.svg.png" group-title="Internacionales", Telesur
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Cubavisión" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Cubavisi%C3%B3n-Internacional-en-vivo-Online.png" group-title="Internacionales", Cubavisión
+https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/chunklist_b1728000.m3u8
+
+#EXTINF:-1 tvg-name="MTV Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/120px-MTV_Logo_2010.svg.png" group-title="Internacionales", MTV Latinoamérica
+http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
+
+#EXTINF:-1 tvg-name="Claro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/861px-Claro_Sports_logo.svg.png" group-title="Internacionales", Claro Sports
+https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
+
+#EXTINF:-1 tvg-name="Locomotion" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/locomotion-logo-png-transparent.png" group-title="Internacionales", Locomotion
+http://51.222.85.85:81/hls/loco/index.m3u8
+
+#EXTINF:-1 tvg-name="Kanade TV" tvg-logo="https://lh3.googleusercontent.com/-DpUwaL-YAtU/X7sIn5vobyI/AAAAAAAA7lI/6Th6noWKtKY1mh1PVMkMYd_NWZ56WFLGgCK8BGAsYHg/s0/2020-11-22.png" group-title="Internacionales", Kanade TV
+http://207.246.84.143:8080/hls/Kanade.m3u8
+
+#EXTINF:-1 tvg-name="Boing" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Boing_2020.png/125px-Boing_2020.png" group-title="Int España", Boing
+http://cdn2.interlibre.net/hls/193/index.m3u8
+
+#EXTINF:-1 tvg-name="Mega" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/1280px-MEGA.svg.png" group-title="Int España", Mega
+http://cdn2.interlibre.net/hls/155/index.m3u8
+
+#EXTINF:-1 tvg-name="Neox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/1280px-Neox.svg.png" group-title="Int España", Neox 
+http://cdn2.interlibre.net/hls/153/index.m3u8
+
+#EXTINF:-1 tvg-name="Nova" tvg-logo="https://www.grupoinfoshop.com/wp-content/uploads/nova.png" group-title="Int España", Nova
+http://cdn2.interlibre.net/hls/154/index.m3u8
+
+#EXTINF:-1 tvg-name="Atreseries" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png" group-title="Int España", Atreseries
+http://cdn2.interlibre.net/hls/101/index.m3u8
+
+#EXTINF:-1 tvg-name="La 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1950px-Logo_TVE-1.svg.png" group-title="Int España", La 1
+http://cdn2.interlibre.net/hls/464/index.m3u8
+
+#EXTINF:-1 tvg-name="La 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1900px-Logo_TVE-2.svg.png" group-title="Int España", La 2
+http://cdn2.interlibre.net/hls/468/index.m3u8
+
+#EXTINF:-1 tvg-name="24 Horas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="Int España", 24 Horas
+https://rtvelivestream.akamaized.net/24h_dvr.m3u8
+
+#EXTINF:-1 tvg-name="Antena 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1200px-Antena_3_%282017%29.svg.png" group-title="Int España", Antena 3
+http://cdn2.interlibre.net/hls/149/index.m3u8
+
+#EXTINF:-1 tvg-name="La Sexta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/1000px-La_Sexta_%28A3M%29.svg.png" group-title="Int España", La Sexta
+http://cdn2.interlibre.net/hls/151/index.m3u8
+
+#EXTINF:-1 tvg-name="Telecinco" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/telecinco_circular_500_-1_bda1.png" group-title="Int España", Telecinco
+http://cdn2.interlibre.net/hls/190/index.m3u8
+
+#EXTINF:-1 tvg-name="Be Mad" tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/be_mad_circular_500_-1_8f1a.png" group-title="Int España", Be Mad
+http://cdn2.interlibre.net/hls/102/index.m3u8
+
+#EXTINF:-1 tvg-name="Energy" tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/energy_logo_500_-1_f132.png" group-title="Int España", Energy
+http://cdn2.interlibre.net/hls/192/index.m3u8
+
+#EXTINF:-1 tvg-name="Divinity" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Divinity.svg/1200px-Divinity.svg.png" group-title="Int España", Divinity
+http://cdn2.interlibre.net/hls/189/index.m3u8
+
+#EXTINF:-1 tvg-name="FDF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/1200px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png" group-title="Int España", FDF
+http://cdn2.interlibre.net/hls/188/index.m3u8
 
 #EXTINF:-1 tvg-name="Noticias Caracol Ahora" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Canal-Caracol-TV-en-vivo-Online-218x150.png" group-title="Nacionales", Noticias Caracol Ahora
 https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
-
-#EXTINF:-1 tvg-name="RCN" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Canal-RCN-en-vivo-Online-218x150.png" group-title="Nacionales", RCN
-https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12Zf-smtyyoyzBj4ZNevvdluY)/dm/3/x7vyv0z/s/live-3.m3u8
-
-#EXTINF:-1 tvg-name="RCN V2" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Canal-RCN-en-vivo-Online-218x150.png" group-title="Nacionales", RCN V2
-https://stream-04.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12Zf-smtyyoyzBj4ZNevvdluY)/dm/3/x7vyv0z/s/live-3.m3u8
-
-#EXTINF:-1 tvg-name="NTN24" tvg-logo="https://html.canalrcn.com/CanalRCN/react/home-v2/img/ntn24-logo.png" group-title="Nacionales", NTN24
-https://stream-02.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAlx1XbdT77eKjvbInw-N37MQ)/dm/3/x7w4okl/s/live-3.m3u8
-
-#EXTINF:-1 tvg-name="NTN24 V2" tvg-logo="https://html.canalrcn.com/CanalRCN/react/home-v2/img/ntn24-logo.png" group-title="Nacionales", NTN24 V2
-https://stream-04.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAlx1XbdT77eKjvbInw-N37MQ)/dm/3/x7w4okl/s/live-3.m3u8
 
 #EXTINF:-1 tvg-name="Señal Colombia" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Senal-Colombia-en-vivo-en-Directo-218x150.png" group-title="Nacionales", Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b1500000.m3u8
@@ -53,10 +101,6 @@ https://infored.lcdn.claro.net.co/Content/hls_clear/live/Channel(REDTVHD)/Stream
 https://liveingesta118.cdnmedia.tv/cristovisionlive/smil:live.smil/chunklist_b750000.m3u8
 
 #EXTINF:-1 tvg-name="Canal Trece" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Canal-Trece-Colombia-en-vivo-Online-100x70.png" group-title="Bogotá", Canal Trece
-#EXTVLCOPT:http-user-agent=IPTVCO#CrKeyTDT#
-https://liveingesta118.cdnmedia.tv/canaltrecelive/smil:live.smil/chunklist_b2000000.m3u8
-
-#EXTINF:-1 tvg-name="Canal Trece V2" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Canal-Trece-Colombia-en-vivo-Online-100x70.png" group-title="Bogotá", Canal Trece V2
 #EXTVLCOPT:http-user-agent=IPTVCO#CrKeyTDT#
 https://liveingesta118.cdnmedia.tv/canaltrecelive/smil:live.smil/playlist.m3u8
 
@@ -83,13 +127,7 @@ http://vcp1.myplaytv.com:1935/mundomas/mundomas/chunklist_w433194687.m3u8
 https://hdvideo2.cdn.net.co/live01/ta_720p.m3u8
 
 #EXTINF: -1 tvg-name="Telemedellín" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Telemedellin-en-vivo-Online-100x70.png" group-title="Antioquia", Telemedellín
-https://telemedellin-live.logicideas.media/telemedellin-live/smil:live.smil/chunklist_b4500000.m3u8
-
-#EXTINF: -1 tvg-name="Telemedellín V2" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Telemedellin-en-vivo-Online-100x70.png" group-title="Antioquia", Telemedellín V2
 https://telemedellin-live.logicideas.media/telemedellin-live/smil:live.smil/chunklist_b2250000.m3u8
-
-#EXTINF: -1 tvg-name="Telemedellín V3" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Telemedellin-en-vivo-Online-100x70.png" group-title="Antioquia", Telemedellín V3
-https://telemedellin-live.logicideas.media/telemedellin-live/smil:live.smil/chunklist_b900000.m3u8
 
 #EXTINF:-1 tvg-name="Canal CNC Medellín" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/06/Canal-CNC-Medellin-en-vivo-Online-100x70.png" group-title="Antioquia", Canal CNC Medellín
 http://66.240.236.25:1936/canalcnc/canalcnc/chunklist_w1862829455.m3u8
@@ -170,14 +208,6 @@ http://pastocnc1.ddns.net:1935/pastocnc7/cnc7/chunklist_w1589801481.m3u8
 #EXTVLCOPT:http-user-agent=IPTVCO#CrKeyTDT#
 https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/master.m3u8
 
-#EXTINF:-1 tvg-name="Canal TRO V2" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Canal-Tro-en-vivo-Online-100x70.png" group-title="Santander", Canal TRO V2
-#EXTVLCOPT:http-user-agent=IPTVCO#CrKeyTDT#
-https://liveingesta119.cdnmedia.tv/canaltro2live/smil:live.smil/master.m3u8
-
-#EXTINF:-1 tvg-name="Canal TRO V3" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Canal-Tro-en-vivo-Online-100x70.png" group-title="Santander", Canal TRO V3
-#EXTVLCOPT:http-user-agent=IPTVCO#CrKeyTDT#
-https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/chunklist_b2000000.m3u8
-
 #EXTINF:-1 tvg-name="ATN TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/ATN-Television-en-vivo-Online-100x70.png" group-title="Santander", ATN TV
 https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/chunklist_w1202066077.m3u8
 
@@ -194,6 +224,12 @@ https://srv3.zcast.com.br/teleboyaca/teleboyaca/chunklist_w1382092117.m3u8
 #EXTINF:-1 tvg-name="Telesantiago Tunja" tvg-logo="https://canaltelesantiago.com/templates/yootheme/cache/logo-78a3ecbc.png" group-title="Boyacá", Telesantiago Tunja
 https://live-edge-lon-1.cdn.enetres.net/B96BDF4F49964F4C9B725BE0528BA89D023/live-1500/index.m3u8
 
+#EXTINF:-1 tvg-name="TDI Colombia" tvg-logo="https://www.tdicolombia.com.co/wp-content/uploads/2021/01/tdisf3.png" group-title="Meta", TDI Colombia
+https://servers.amelbasoluciones.co:19360/tdicolombia/tdicolombia.m3u8
+
+#EXTINF:-1 tvg-name="Miptv" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/05/Miptv-Colombia-en-vivo-Online-100x70.png" group-title="Meta", Miptv
+https://servers.amelbasoluciones.co:19360/8100/8100.m3u8
+
 #EXTINF:-1 tvg-name="CTV Barranquilla" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/07/CTV-Barranquilla-en-vivo-Online-100x70.png" group-title="Atlántico", CTV Barranquilla
 https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/chunklist_w1265030407.m3u8
 
@@ -202,9 +238,6 @@ http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Canal DOCE Sincelejo" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-12-Sincelejo-en-vivo-Online-100x70.png" group-title="Sucre", Canal DOCE Sincelejo
 http://api.new.livestream.com/accounts/27724665/events/8376416/live.m3u8
-
-#EXTINF:-1 tvg-name="TDI Colombia" tvg-logo="https://www.tdicolombia.com.co/wp-content/uploads/2021/01/tdisf3.png" group-title="Meta", TDI Colombia
-https://servers.amelbasoluciones.co:19360/tdicolombia/tdicolombia.m3u8
 
 #EXTINF:-1 tvg-name="ATV Colombia" tvg-logo="https://www.atvcolombia.com/wp-content/uploads/2020/10/A193Product-1-243x300.png" group-title="Cundinamarca", ATV Colombia
 https://cloud2.streaminglivehd.com:1936/atvcolombia/atvcolombia/chunklist_w1977977301.m3u8
@@ -217,7 +250,6 @@ https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Alpavisión Neiva" tvg-logo="https://alpavision.com.co/wp-content/uploads/2019/09/logo-web-550px-01-sinhd.png" group-title="Huila", Alpavisión Neiva
 https://cloud2.streaminglivehd.com:1936/8102/8102/chunklist_w1862021639.m3u8
-
 
 #EXTINF:-1 tvg-name="PyC" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2020/10/PyC-Television-en-vivo-Online-100x70.png" group-title="Tolima", PyC
 https://byecableiptv.com/canapycvivo/canalpyc.stream/chunklist_w689691487.m3u8
