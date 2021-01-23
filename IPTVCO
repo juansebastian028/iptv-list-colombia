@@ -21,16 +21,13 @@ https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-name="Telesur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/150px-TeleSUR-Logo.svg.png" group-title="Internacionales", Telesur
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/chunklist.m3u8
 
-#EXTINF:-1 tvg-name="Cubavisión" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Cubavisi%C3%B3n-Internacional-en-vivo-Online.png" group-title="Internacionales", Cubavisión
-https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/chunklist_b1728000.m3u8
-
 #EXTINF:-1 tvg-name="MTV Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/120px-MTV_Logo_2010.svg.png" group-title="Internacionales", MTV Latinoamérica
 http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
 
 #EXTINF:-1 tvg-name="Claro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/861px-Claro_Sports_logo.svg.png" group-title="Internacionales", Claro Sports
 https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
 
-#EXTINF:-1 tvg-name="Locomotion" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/locomotion-logo-png-transparent.png" group-title="Internacionales", Locomotion
+#EXTINF:-1 tvg-name="Locomotion" tvg-logo="https://lh3.googleusercontent.com/-_ywhP_VEj2g/XssbwC8yLuI/AAAAAAAA1Ik/fb6iyQQcz6ovOW4alzHoN8-hIwt6eACIACK8BGAsYHg/s0/2020-05-24.png" group-title="Internacionales", Locomotion
 http://51.222.85.85:81/hls/loco/index.m3u8
 
 #EXTINF:-1 tvg-name="Kanade TV" tvg-logo="https://lh3.googleusercontent.com/-DpUwaL-YAtU/X7sIn5vobyI/AAAAAAAA7lI/6Th6noWKtKY1mh1PVMkMYd_NWZ56WFLGgCK8BGAsYHg/s0/2020-11-22.png" group-title="Internacionales", Kanade TV
