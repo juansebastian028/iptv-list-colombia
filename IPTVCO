@@ -10,7 +10,7 @@ https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
 
 #EXTINF: -1 tvg-name="Hispan TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HispanTv_logo.svg/100px-HispanTv_logo.svg.png" group-title="Internacionales", Hispan TV
-https://live.presstv.com/live/smil:live.smil/chunklist_w228923649_b644100_slen.m3u8
+https://live1.presstv.com/live/hispan.m3u8
 
 #EXTINF:-1 tvg-name="Zee Mundo" tvg-logo="https://zeemundo.com/wp-content/uploads/2018/06/logo-120.png" group-title="Internacionales", Zee Mundo
 https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8
@@ -18,17 +18,23 @@ https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8
 #EXTINF:-1 tvg-name="CGTN Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/CGTN_Espanol.png/180px-CGTN_Espanol.png" group-title="Internacionales", CGTN Español
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
-#EXTINF:-1 tvg-name="TV Pública" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.svg/1200px-Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.svg.png" group-title="Internacionales", TV Pública
-https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001.m3u8
-
 #EXTINF:-1 tvg-name="Telesur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/150px-TeleSUR-Logo.svg.png" group-title="Internacionales", Telesur
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/chunklist.m3u8
 
-#EXTINF:-1 tvg-name="MTV Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/120px-MTV_Logo_2010.svg.png" group-title="Internacionales", MTV Latinoamérica
+#EXTINF:-1 tvg-name="MTV Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/120px-MTV_Logo_2010.svg.png" group-title="Latinoamérica", MTV Latinoamérica
 http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
 
-#EXTINF:-1 tvg-name="Claro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/861px-Claro_Sports_logo.svg.png" group-title="Internacionales", Claro Sports
+#EXTINF:-1 tvg-name="Claro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/861px-Claro_Sports_logo.svg.png" group-title="Latinoamérica", Claro Sports
 https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
+
+#EXTINF:-1 tvg-name="TV Pública" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.svg/1200px-Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.svg.png" group-title="Argentina", TV Pública
+https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001.m3u8
+
+#EXTINF:-1 tvg-name="América" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/133px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="Argentina", América"
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+
+#EXTINF:-1 tvg-name="Net TV" tvg-logo="https://i.imgur.com/J7stpmb.png" group-title="Argentina", Net TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Locomotion" tvg-logo="https://lh3.googleusercontent.com/-_ywhP_VEj2g/XssbwC8yLuI/AAAAAAAA1Ik/fb6iyQQcz6ovOW4alzHoN8-hIwt6eACIACK8BGAsYHg/s0/2020-05-24.png" group-title="Internacionales", Locomotion
 http://51.222.85.85:81/hls/loco/index.m3u8
@@ -36,61 +42,61 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-name="Kanade TV" tvg-logo="https://lh3.googleusercontent.com/-DpUwaL-YAtU/X7sIn5vobyI/AAAAAAAA7lI/6Th6noWKtKY1mh1PVMkMYd_NWZ56WFLGgCK8BGAsYHg/s0/2020-11-22.png" group-title="Internacionales", Kanade TV
 http://207.246.84.143:8080/hls/Kanade.m3u8
 
-#EXTINF:-1 tvg-name="La 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1950px-Logo_TVE-1.svg.png" group-title="Int España", La 1
+#EXTINF:-1 tvg-name="La 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1950px-Logo_TVE-1.svg.png" group-title="España", La 1
 http://cdn2.interlibre.net/hls/464/index.m3u8
 
-#EXTINF:-1 tvg-name="La 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1900px-Logo_TVE-2.svg.png" group-title="Int España", La 2
+#EXTINF:-1 tvg-name="La 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1900px-Logo_TVE-2.svg.png" group-title="España", La 2
 http://cdn2.interlibre.net/hls/468/index.m3u8
 
-#EXTINF:-1 tvg-name="24 Horas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="Int España", 24 Horas
-https://rtvelivestream.akamaized.net/24h_dvr.m3u8
-
-#EXTINF:-1 tvg-name="Antena 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1200px-Antena_3_%282017%29.svg.png" group-title="Int España", Antena 3
+#EXTINF:-1 tvg-name="Antena 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1200px-Antena_3_%282017%29.svg.png" group-title="España", Antena 3
 http://cdn2.interlibre.net/hls/149/index.m3u8
 
-#EXTINF:-1 tvg-name="Atreseries" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png" group-title="Int España", Atreseries
-http://cdn2.interlibre.net/hls/101/index.m3u8
-
-#EXTINF:-1 tvg-name="Boing" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Boing_2020.png/125px-Boing_2020.png" group-title="Int España", Boing
-http://cdn2.interlibre.net/hls/193/index.m3u8
-
-#EXTINF:-1 tvg-name="Mega" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/1280px-MEGA.svg.png" group-title="Int España", Mega
-http://cdn2.interlibre.net/hls/155/index.m3u8
-
-#EXTINF:-1 tvg-name="Neox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/1280px-Neox.svg.png" group-title="Int España", Neox 
-http://cdn2.interlibre.net/hls/153/index.m3u8
-
-#EXTINF:-1 tvg-name="Nova" tvg-logo="https://www.grupoinfoshop.com/wp-content/uploads/nova.png" group-title="Int España", Nova
-http://cdn2.interlibre.net/hls/154/index.m3u8
-
-#EXTINF:-1 tvg-name="La Sexta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/1000px-La_Sexta_%28A3M%29.svg.png" group-title="Int España", La Sexta
-http://cdn2.interlibre.net/hls/151/index.m3u8
-
-#EXTINF:-1 tvg-name="Telecinco" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/telecinco_circular_500_-1_bda1.png" group-title="Int España", Telecinco
+#EXTINF:-1 tvg-name="Telecinco" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/telecinco_circular_500_-1_bda1.png" group-title="España", Telecinco
 http://cdn2.interlibre.net/hls/190/index.m3u8
 
-#EXTINF:-1 tvg-name="Be Mad" tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/be_mad_circular_500_-1_8f1a.png" group-title="Int España", Be Mad
-http://cdn2.interlibre.net/hls/102/index.m3u8
+#EXTINF:-1 tvg-name="La Sexta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/1000px-La_Sexta_%28A3M%29.svg.png" group-title="España", La Sexta
+http://cdn2.interlibre.net/hls/151/index.m3u8
 
-#EXTINF:-1 tvg-name="Energy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Energy_2012.png" group-title="Int España", Energy
-http://cdn2.interlibre.net/hls/192/index.m3u8
+#EXTINF:-1 tvg-name="24 Horas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="España", 24 Horas
+https://rtvelivestream.akamaized.net/24h_dvr.m3u8
 
-#EXTINF:-1 tvg-name="Divinity" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Divinity.svg/1200px-Divinity.svg.png" group-title="Int España", Divinity
-http://cdn2.interlibre.net/hls/189/index.m3u8
-
-#EXTINF:-1 tvg-name="FDF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/1200px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png" group-title="Int España", FDF
-http://cdn2.interlibre.net/hls/188/index.m3u8
-
-#EXTINF:-1 tvg-name="GOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/250px-Gol.svg.png" group-title="Int España", GOL
+#EXTINF:-1 tvg-name="GOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/250px-Gol.svg.png" group-title="España", GOL
 http://91.126.141.12:1935/live/smil:gol.smil/chunklist_w1294517591_b3128000_sleng.m3u8
 
-#EXTINF:-1 tvg-name="Real Madrid TV" tvg-logo="https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/realmadridtv.jpg" group-title="Int España", Real Madrid TV
+#EXTINF:-1 tvg-name="Real Madrid TV" tvg-logo="https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/realmadridtv.jpg" group-title="España", Real Madrid TV
 https://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 
-#EXTINF:-1 tvg-name="Trece" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/01/trece.png" group-title="Int España", Trece
+#EXTINF:-1 tvg-name="Boing" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Boing_2020.png/125px-Boing_2020.png" group-title="España", Boing
+http://cdn2.interlibre.net/hls/193/index.m3u8
+
+#EXTINF:-1 tvg-name="Neox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/1280px-Neox.svg.png" group-title="España", Neox 
+http://cdn2.interlibre.net/hls/153/index.m3u8
+
+#EXTINF:-1 tvg-name="Atreseries" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png" group-title="España", Atreseries
+http://cdn2.interlibre.net/hls/101/index.m3u8
+
+#EXTINF:-1 tvg-name="Mega" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/1280px-MEGA.svg.png" group-title="España", Mega
+http://cdn2.interlibre.net/hls/155/index.m3u8
+
+#EXTINF:-1 tvg-name="Nova" tvg-logo="https://www.grupoinfoshop.com/wp-content/uploads/nova.png" group-title="España", Nova
+http://cdn2.interlibre.net/hls/154/index.m3u8
+
+#EXTINF:-1 tvg-name="Be Mad" tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/be_mad_circular_500_-1_8f1a.png" group-title="España", Be Mad
+http://cdn2.interlibre.net/hls/102/index.m3u8
+
+#EXTINF:-1 tvg-name="Divinity" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Divinity.svg/1200px-Divinity.svg.png" group-title="España", Divinity
+http://cdn2.interlibre.net/hls/189/index.m3u8
+
+#EXTINF:-1 tvg-name="Energy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Energy_2012.png" group-title="España", Energy
+http://cdn2.interlibre.net/hls/192/index.m3u8
+
+#EXTINF:-1 tvg-name="FDF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/1200px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png" group-title="España", FDF
+http://cdn2.interlibre.net/hls/188/index.m3u8
+
+#EXTINF:-1 tvg-name="Trece" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/01/trece.png" group-title="España", Trece
 https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="mtmad 24h" tvg-logo="https://i.imgur.com/I9QX555.png" group-title="Int España", mtmad 24h
+#EXTINF:-1 tvg-name="mtmad 24h" tvg-logo="https://i.imgur.com/I9QX555.png" group-title="España", mtmad 24h
 https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-b.m3u8
 
 #EXTINF:-1 tvg-name="Noticias Caracol Ahora" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Canal-Caracol-TV-en-vivo-Online-218x150.png" group-title="Nacionales", Noticias Caracol Ahora
