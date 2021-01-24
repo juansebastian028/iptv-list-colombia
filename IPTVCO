@@ -6,7 +6,7 @@ https://rt-esp-gd.secure2.footprint.net/1102_2500Kb.m3u8
 #EXTINF: -1 tvg-name="DW Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/125px-Deutsche_Welle_symbol_2012.svg.png" group-title="Internacionales", DW Español
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 
-#EXTINF: -1 tvg-name="France 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/125px-France24.png" group-title="Internacionales", France 24
+#EXTINF: -1 tvg-name="France 24 Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/125px-France24.png" group-title="Internacionales", France 24 Español
 https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
 
 #EXTINF: -1 tvg-name="Hispan TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HispanTv_logo.svg/100px-HispanTv_logo.svg.png" group-title="Internacionales", Hispan TV
@@ -36,21 +36,6 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-name="Kanade TV" tvg-logo="https://lh3.googleusercontent.com/-DpUwaL-YAtU/X7sIn5vobyI/AAAAAAAA7lI/6Th6noWKtKY1mh1PVMkMYd_NWZ56WFLGgCK8BGAsYHg/s0/2020-11-22.png" group-title="Internacionales", Kanade TV
 http://207.246.84.143:8080/hls/Kanade.m3u8
 
-#EXTINF:-1 tvg-name="Boing" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Boing_2020.png/125px-Boing_2020.png" group-title="Int España", Boing
-http://cdn2.interlibre.net/hls/193/index.m3u8
-
-#EXTINF:-1 tvg-name="Mega" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/1280px-MEGA.svg.png" group-title="Int España", Mega
-http://cdn2.interlibre.net/hls/155/index.m3u8
-
-#EXTINF:-1 tvg-name="Neox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/1280px-Neox.svg.png" group-title="Int España", Neox 
-http://cdn2.interlibre.net/hls/153/index.m3u8
-
-#EXTINF:-1 tvg-name="Nova" tvg-logo="https://www.grupoinfoshop.com/wp-content/uploads/nova.png" group-title="Int España", Nova
-http://cdn2.interlibre.net/hls/154/index.m3u8
-
-#EXTINF:-1 tvg-name="Atreseries" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png" group-title="Int España", Atreseries
-http://cdn2.interlibre.net/hls/101/index.m3u8
-
 #EXTINF:-1 tvg-name="La 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1950px-Logo_TVE-1.svg.png" group-title="Int España", La 1
 http://cdn2.interlibre.net/hls/464/index.m3u8
 
@@ -63,6 +48,21 @@ https://rtvelivestream.akamaized.net/24h_dvr.m3u8
 #EXTINF:-1 tvg-name="Antena 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1200px-Antena_3_%282017%29.svg.png" group-title="Int España", Antena 3
 http://cdn2.interlibre.net/hls/149/index.m3u8
 
+#EXTINF:-1 tvg-name="Atreseries" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png" group-title="Int España", Atreseries
+http://cdn2.interlibre.net/hls/101/index.m3u8
+
+#EXTINF:-1 tvg-name="Boing" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Boing_2020.png/125px-Boing_2020.png" group-title="Int España", Boing
+http://cdn2.interlibre.net/hls/193/index.m3u8
+
+#EXTINF:-1 tvg-name="Mega" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/1280px-MEGA.svg.png" group-title="Int España", Mega
+http://cdn2.interlibre.net/hls/155/index.m3u8
+
+#EXTINF:-1 tvg-name="Neox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/1280px-Neox.svg.png" group-title="Int España", Neox 
+http://cdn2.interlibre.net/hls/153/index.m3u8
+
+#EXTINF:-1 tvg-name="Nova" tvg-logo="https://www.grupoinfoshop.com/wp-content/uploads/nova.png" group-title="Int España", Nova
+http://cdn2.interlibre.net/hls/154/index.m3u8
+
 #EXTINF:-1 tvg-name="La Sexta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/1000px-La_Sexta_%28A3M%29.svg.png" group-title="Int España", La Sexta
 http://cdn2.interlibre.net/hls/151/index.m3u8
 
@@ -72,7 +72,7 @@ http://cdn2.interlibre.net/hls/190/index.m3u8
 #EXTINF:-1 tvg-name="Be Mad" tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/be_mad_circular_500_-1_8f1a.png" group-title="Int España", Be Mad
 http://cdn2.interlibre.net/hls/102/index.m3u8
 
-#EXTINF:-1 tvg-name="Energy" tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/energy_logo_500_-1_f132.png" group-title="Int España", Energy
+#EXTINF:-1 tvg-name="Energy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Energy_2012.png" group-title="Int España", Energy
 http://cdn2.interlibre.net/hls/192/index.m3u8
 
 #EXTINF:-1 tvg-name="Divinity" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Divinity.svg/1200px-Divinity.svg.png" group-title="Int España", Divinity
@@ -80,6 +80,18 @@ http://cdn2.interlibre.net/hls/189/index.m3u8
 
 #EXTINF:-1 tvg-name="FDF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/1200px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png" group-title="Int España", FDF
 http://cdn2.interlibre.net/hls/188/index.m3u8
+
+#EXTINF:-1 tvg-name="GOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/250px-Gol.svg.png" group-title="Int España", GOL
+http://91.126.141.12:1935/live/smil:gol.smil/chunklist_w1294517591_b3128000_sleng.m3u8
+
+#EXTINF:-1 tvg-name="Real Madrid TV" tvg-logo="https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/realmadridtv.jpg" group-title="Int España", Real Madrid TV
+https://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+
+#EXTINF:-1 tvg-name="Trece" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/01/trece.png" group-title="Int España", Trece
+https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="mtmad 24h" tvg-logo="https://i.imgur.com/I9QX555.png" group-title="Int España", mtmad 24h
+https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-b.m3u8
 
 #EXTINF:-1 tvg-name="Noticias Caracol Ahora" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Canal-Caracol-TV-en-vivo-Online-218x150.png" group-title="Nacionales", Noticias Caracol Ahora
 https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
