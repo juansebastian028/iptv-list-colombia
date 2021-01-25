@@ -30,9 +30,6 @@ https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/
 #EXTINF:-1 tvg-name="Kanade TV" tvg-logo="https://lh3.googleusercontent.com/-DpUwaL-YAtU/X7sIn5vobyI/AAAAAAAA7lI/6Th6noWKtKY1mh1PVMkMYd_NWZ56WFLGgCK8BGAsYHg/s0/2020-11-22.png" group-title="Otros Latinoamérica", Kanade TV
 http://207.246.84.143:8080/hls/Kanade.m3u8
 
-#EXTINF:-1 tvg-name="TV Pública" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.svg/1200px-Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.svg.png" group-title="Otros Latinoamérica", TV Pública
-https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001.m3u8
-
 #EXTINF:-1 tvg-name="Locomotion" tvg-logo="https://lh3.googleusercontent.com/-_ywhP_VEj2g/XssbwC8yLuI/AAAAAAAA1Ik/fb6iyQQcz6ovOW4alzHoN8-hIwt6eACIACK8BGAsYHg/s0/2020-05-24.png" group-title="Otros Latinoamérica", Locomotion
 http://51.222.85.85:81/hls/loco/index.m3u8
 
