@@ -21,71 +21,20 @@ https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-name="Telesur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/150px-TeleSUR-Logo.svg.png" group-title="Internacionales", Telesur
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/chunklist.m3u8
 
-#EXTINF:-1 tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/120px-MTV_Logo_2010.svg.png" group-title="Otros Latinoamérica", MTV
+#EXTINF:-1 tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/120px-MTV_Logo_2010.svg.png" group-title="Otros", MTV
 http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
 
-#EXTINF:-1 tvg-name="Claro Sports MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/861px-Claro_Sports_logo.svg.png" group-title="Otros Latinoamérica", Claro Sports MX
+#EXTINF:-1 tvg-name="Claro Sports MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/861px-Claro_Sports_logo.svg.png" group-title="Otros", Claro Sports MX
 https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
 
-#EXTINF:-1 tvg-name="Kanade TV" tvg-logo="https://lh3.googleusercontent.com/-DpUwaL-YAtU/X7sIn5vobyI/AAAAAAAA7lI/6Th6noWKtKY1mh1PVMkMYd_NWZ56WFLGgCK8BGAsYHg/s0/2020-11-22.png" group-title="Otros Latinoamérica", Kanade TV
+#EXTINF:-1 tvg-name="Kanade TV" tvg-logo="https://lh3.googleusercontent.com/-DpUwaL-YAtU/X7sIn5vobyI/AAAAAAAA7lI/6Th6noWKtKY1mh1PVMkMYd_NWZ56WFLGgCK8BGAsYHg/s0/2020-11-22.png" group-title="Otros", Kanade TV
 http://207.246.84.143:8080/hls/Kanade.m3u8
 
-#EXTINF:-1 tvg-name="Locomotion" tvg-logo="https://lh3.googleusercontent.com/-_ywhP_VEj2g/XssbwC8yLuI/AAAAAAAA1Ik/fb6iyQQcz6ovOW4alzHoN8-hIwt6eACIACK8BGAsYHg/s0/2020-05-24.png" group-title="Otros Latinoamérica", Locomotion
+#EXTINF:-1 tvg-name="Locomotion" tvg-logo="https://lh3.googleusercontent.com/-_ywhP_VEj2g/XssbwC8yLuI/AAAAAAAA1Ik/fb6iyQQcz6ovOW4alzHoN8-hIwt6eACIACK8BGAsYHg/s0/2020-05-24.png" group-title="Otros", Locomotion
 http://51.222.85.85:81/hls/loco/index.m3u8
 
-#EXTINF:-1 tvg-name="La 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1950px-Logo_TVE-1.svg.png" group-title="España", La 1
-http://cdn2.interlibre.net/hls/464/index.m3u8
-
-#EXTINF:-1 tvg-name="La 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1900px-Logo_TVE-2.svg.png" group-title="España", La 2
-http://cdn2.interlibre.net/hls/468/index.m3u8
-
-#EXTINF:-1 tvg-name="Antena 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1200px-Antena_3_%282017%29.svg.png" group-title="España", Antena 3
-http://cdn2.interlibre.net/hls/149/index.m3u8
-
-#EXTINF:-1 tvg-name="Telecinco" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/telecinco_circular_500_-1_bda1.png" group-title="España", Telecinco
-http://cdn2.interlibre.net/hls/190/index.m3u8
-
-#EXTINF:-1 tvg-name="La Sexta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/1000px-La_Sexta_%28A3M%29.svg.png" group-title="España", La Sexta
-http://cdn2.interlibre.net/hls/151/index.m3u8
-
-#EXTINF:-1 tvg-name="24 Horas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="España", 24 Horas
-https://rtvelivestream.akamaized.net/24h_dvr.m3u8
-
-#EXTINF:-1 tvg-name="GOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/250px-Gol.svg.png" group-title="España", GOL
+#EXTINF:-1 tvg-name="GOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/250px-Gol.svg.png" group-title="Otros", GOL
 http://91.126.141.12:1935/live/smil:gol.smil/chunklist_w1294517591_b3128000_sleng.m3u8
-
-#EXTINF:-1 tvg-name="Real Madrid TV" tvg-logo="https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/realmadridtv.jpg" group-title="España", Real Madrid TV
-https://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
-
-#EXTINF:-1 tvg-name="Boing" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Boing_2020.png/125px-Boing_2020.png" group-title="España", Boing
-http://cdn2.interlibre.net/hls/193/index.m3u8
-
-#EXTINF:-1 tvg-name="Neox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/1280px-Neox.svg.png" group-title="España", Neox 
-http://cdn2.interlibre.net/hls/153/index.m3u8
-
-#EXTINF:-1 tvg-name="Atreseries" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png" group-title="España", Atreseries
-http://cdn2.interlibre.net/hls/101/index.m3u8
-
-#EXTINF:-1 tvg-name="Mega" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/1280px-MEGA.svg.png" group-title="España", Mega
-http://cdn2.interlibre.net/hls/155/index.m3u8
-
-#EXTINF:-1 tvg-name="Nova" tvg-logo="https://www.grupoinfoshop.com/wp-content/uploads/nova.png" group-title="España", Nova
-http://cdn2.interlibre.net/hls/154/index.m3u8
-
-#EXTINF:-1 tvg-name="Be Mad" tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/be_mad_circular_500_-1_8f1a.png" group-title="España", Be Mad
-http://cdn2.interlibre.net/hls/102/index.m3u8
-
-#EXTINF:-1 tvg-name="Divinity" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Divinity.svg/1200px-Divinity.svg.png" group-title="España", Divinity
-http://cdn2.interlibre.net/hls/189/index.m3u8
-
-#EXTINF:-1 tvg-name="Energy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Energy_2012.png" group-title="España", Energy
-http://cdn2.interlibre.net/hls/192/index.m3u8
-
-#EXTINF:-1 tvg-name="FDF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/1200px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png" group-title="España", FDF
-http://cdn2.interlibre.net/hls/188/index.m3u8
-
-#EXTINF:-1 tvg-name="mtmad" tvg-logo="https://i.imgur.com/I9QX555.png" group-title="España", mtmad
-https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-b.m3u8
 
 #EXTINF:-1 tvg-name="Noticias Caracol Ahora" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Canal-Caracol-TV-en-vivo-Online-218x150.png" group-title="Nacionales", Noticias Caracol Ahora
 https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
@@ -125,6 +74,15 @@ https://liveingesta118.cdnmedia.tv/canalzoomtvlive/smil:streamingcanalzoom.smil/
 
 #EXTINF:-1 tvg-name="TV Gracia" tvg-logo="https://www.tvgracia.com/assets/images/tvgracia-espanol-blanco-logo2020-108x119.png" group-title="Bogotá", TV Gracia
 https://streamyes.alsolnet.com/tvgracia/live/chunklist_w989608216.m3u8
+
+#EXTINF: -1 tvg-name="Telemúsica" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Telemusica-Colombia-en-vivo-Online-100x70.png" group-title="Bogotá", Telemúsica
+https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.m3u8
+
+#EXTINF: -1 tvg-name="Melody Channel TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Melody-Channel-TV-en-vivo-Online-100x70.png" group-title="Bogotá", Melody Channel TV
+https://5b464b69d264e.streamlock.net/Channels_live/ngrp:MelodyChannel_all/playlist.m3u8
+
+#EXTINF: -1 tvg-name="Amordiscos TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Telemusica-Colombia-en-vivo-Online-100x70.png" group-title="Bogotá", Amordiscos TV
+https://5b464b69d264e.streamlock.net/Channels_live/ngrp:amordiscos_all/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Mundo+" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/03/Canal-Mundo-Colombia-en-vivo-Online-100x70.png" group-title="Antioquia", Mundo+
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/chunklist_w433194687.m3u8
@@ -238,6 +196,9 @@ https://servers.amelbasoluciones.co:19360/8100/8100.m3u8
 
 #EXTINF:-1 tvg-name="CTV Barranquilla" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/07/CTV-Barranquilla-en-vivo-Online-100x70.png" group-title="Atlántico", CTV Barranquilla
 https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/chunklist_w1265030407.m3u8
+
+#EXTINF:-1 tvg-name="Marina Stereo" tvg-logo="https://www.marinastereo.co/wp-content/uploads/2019/11/LOGO-4-300x136.png" group-title="Atlántico", Marina Stereo
+https://rtmp02.portalexpress.es/marinastereo/marinastereo/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Teleislas" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Teleislas-en-vivo-Online-100x70.png" group-title="San Andrés y Providencia", Teleislas
 http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
