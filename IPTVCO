@@ -46,7 +46,7 @@ http://179.1.7.198:1935/live/TVAgroHD.stream_360p/chunklist_w842594670.m3u8
 https://infored.lcdn.claro.net.co/Content/hls_clear/live/Channel(REDTVHD)/Stream(06)/index.m3u8
 
 #EXTINF:-1 tvg-name="Cablenoticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/175px-Cable_Noticias_logo.svg.png" group-title="Nacionales", Cablenoticias
-http://rv.therevenge.co:80/live/242424/242424/87167.m3u8
+http://rv.therevenge.co:80/live/242424/242424/87167.m3u8?
 
 #EXTINF:-1 tvg-name="Cristovisión" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/03/Cristovisi%C3%B3n-en-vivo-Online-100x70.png" group-title="Nacionales", Cristovisión
 #EXTVLCOPT:http-user-agent=IPTVCO#CrKeyTDT#
