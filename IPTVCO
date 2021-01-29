@@ -81,7 +81,7 @@ https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.
 #EXTINF: -1 tvg-name="Melody Channel TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Melody-Channel-TV-en-vivo-Online-100x70.png" group-title="Bogotá", Melody Channel TV
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:MelodyChannel_all/playlist.m3u8
 
-#EXTINF: -1 tvg-name="Amordiscos TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Telemusica-Colombia-en-vivo-Online-100x70.png" group-title="Bogotá", Amordiscos TV
+#EXTINF: -1 tvg-name="Amordiscos TV" tvg-logo="" group-title="Bogotá", Amordiscos TV
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:amordiscos_all/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Mundo+" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/03/Canal-Mundo-Colombia-en-vivo-Online-100x70.png" group-title="Antioquia", Mundo+
