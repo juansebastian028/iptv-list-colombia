@@ -115,7 +115,7 @@ https://cloud2.streaminglivehd.com:1936/8118/8118/chunklist_w1824411725.m3u8
 https://live-edge-lon-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC023/live-1500/index.m3u8
 
 #EXTINF:-1 tvg-name="Noticiero 90 Minutos" tvg-logo="https://90minutos.co/wp-content/uploads/2020/11/logo90_2020_2.png" group-title="Valle del Cauca", Noticiero 90 Minutos
-https://live-edge-mad-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/live-2500/index.m3u8
+https://live-edge-lon-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/live-1500/index.m3u8
 
 #EXTINF:-1 tvg-name="Telepacífico" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Telepacifico-en-vivo-Online-100x70.png" group-title="Valle del Cauca", Telepacífico
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/chunklist_b4500000.m3u8
