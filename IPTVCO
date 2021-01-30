@@ -36,13 +36,10 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-name="Universo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/UNIVERSO_LOGO_color_black.png/175px-UNIVERSO_LOGO_color_black.png" group-title="Otros", Universo
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/665
 
-#EXTINF:-1 tvg-name="Glitz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Glitzlogo.png/150px-Glitzlogo.png" group-title="Otros", Glitz
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1123
-
-#EXTINF:-1 tvg-name="Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/150px-Science_Channel_logo.svg.png" group-title="Cultural", Discovery Science
+#EXTINF:-1 tvg-name="Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/150px-Science_Channel_logo.svg.png" group-title="Culturales", Discovery Science
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/770
 
-#EXTINF:-1 tvg-name="Nat Geo Mundo" tvg-logo="https://streamingtvguides.com/img/so/NGMUNDO.png" group-title="Cultural", Nat Geo Mundo
+#EXTINF:-1 tvg-name="Nat Geo Mundo" tvg-logo="https://streamingtvguides.com/img/so/NGMUNDO.png" group-title="Culturales", Nat Geo Mundo
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/598
 
 #EXTINF:-1 tvg-name="Claro Sports MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/861px-Claro_Sports_logo.svg.png" group-title="Deportes", Claro Sports MX
