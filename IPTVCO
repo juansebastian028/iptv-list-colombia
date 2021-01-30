@@ -51,10 +51,13 @@ http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
 #EXTINF:-1 tvg-name="AXN Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/150px-AXN_logo_%282015%29.svg.png" group-title="Otros", AXN Latinoamérica
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/765
 
+#EXTINF:-1 tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/175px-Cinemax_%28Yellow%29.svg.png" group-title="Otros", Cinemax
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/769
+
 #EXTINF:-1 tvg-name="Universo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/UNIVERSO_LOGO_color_black.png/175px-UNIVERSO_LOGO_color_black.png" group-title="Otros", Universo
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/665
 
-#EXTINF:-1 tvg-name="Tiin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Tiin_logo.png/175px-Tiin_logo.png" group-title="Otros", Tiin
+#EXTINF:-1 tvg-name="BitMe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/BitMe.svg/80px-BitMe.svg.png" group-title="Otros", BitMe
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/759
 
 #EXTINF:-1 tvg-name="Noticias Caracol Ahora" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Noticias_Caracol_imagotype.svg/150px-Noticias_Caracol_imagotype.svg.png" group-title="Nacionales", Noticias Caracol Ahora
