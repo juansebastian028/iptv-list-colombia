@@ -33,20 +33,29 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/150px-ESPN_wordmark.svg.png" group-title="Deportes", ESPN
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1124
 
+#EXTINF:-1 tvg-name="BeIN Sports Ñ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/BeIN_Sports_En_Espa%C3%B1ol.png" group-title="Deportes", BeIN Sports Ñ
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/
+
+#EXTINF:-1 tvg-name="GOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/250px-Gol.svg.png" group-title="Deportes", GOL	
+http://91.126.141.12:1935/live/smil:gol.smil/chunklist_w1294517591_b3128000_sleng.m3u8
+
+#EXTINF:-1 tvg-name="Claro Sports MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/861px-Claro_Sports_logo.svg.png" group-title="Deportes", Claro Sports MX
+https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
+
 #EXTINF:-1, tvg-name="Fox Deportes MX" tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo.png" group-title="Deportes", Fox Deportes MX
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/531
 
 #EXTINF:-1, tvg-name="TUDN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/190px-TUDN_Logo.svg.png" group-title="Deportes", TUDN
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/666
 
+#EXTINF:-1 tvg-name="Afizzionados" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Afizzionados_Logo.svg/245px-Afizzionados_Logo.svg.png" group-title="Deportes", Afizzionados
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/729
+
+#EXTINF:-1 tvg-name="TVC Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/TVCDeportes.png" group-title="Deportes", TVC Deportes
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/761
+
 #EXTINF:-1 tvg-name="Adrenalina Sports Network" tvg-logo="https://forounivers.com/uploads/monthly_2018_12/large.332605982_AdrenalinaSportsNetwork.png.abd46f026a9e399883b074499daf38e9.png" group-title="Deportes", Adrenalina Sports Network
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/726
-
-#EXTINF:-1 tvg-name="BeIN Sports Ñ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/BeIN_Sports_En_Espa%C3%B1ol.png" group-title="Deportes", BeIN Sports Ñ
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487
-
-#EXTINF:-1 tvg-name="Claro Sports MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/861px-Claro_Sports_logo.svg.png" group-title="Deportes", Claro Sports MX
-https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
 
 #EXTINF:-1 tvg-name="MTV Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/120px-MTV_Logo_2010.svg.png" group-title="Otros", MTV Latinoamérica
 http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
@@ -60,9 +69,6 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-name="Universo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/UNIVERSO_LOGO_color_black.png/175px-UNIVERSO_LOGO_color_black.png" group-title="Otros", Universo
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/665
 
-#EXTINF:-1 tvg-name="BitMe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/BitMe.svg/80px-BitMe.svg.png" group-title="Otros", BitMe
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/759
-
 #EXTINF:-1 tvg-name="Telemundo New York" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="Otros", Telemundo New York
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/658
 
@@ -70,7 +76,40 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/663
 
 #EXTINF:-1 tvg-name="Galavisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/150px-Galavision_Logo_2013.svg.png" group-title="Otros", Galavisión
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/556
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/
+
+#EXTINF:-1 tvg-name="Antena 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/125px-Antena_3_%282017%29.svg.png" group-title="Otros", Antena 3
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/484
+
+#EXTINF:-1 tvg-name="Veplus TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Ve_Plus_Logo_2019.png/130px-Ve_Plus_Logo_2019.png" group-title="Otros", Veplus TV
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/762
+
+#EXTINF:-1 tvg-name="Distrito Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/175px-DistritoComediaLOGO2018.png" group-title="México", Distrito Comedia
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/691
+
+#EXTINF:-1 tvg-name="Canal 9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Nueve_%282018_logo%29.png/175px-Nueve_%282018_logo%29.png" group-title="México", Canal 9
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/719
+
+#EXTINF:-1 tvg-name="Estrella TV" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/estrella.png" group-title="México", Estrella TV
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/697
+
+#EXTINF:-1 tvg-name="Canal De Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/180px-Las_Estrellas.svg.png" group-title="México", Canal De Las Estrellas 
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/682
+
+#EXTINF:-1 tvg-name="TV Azteca Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TV_Azteca_Cinema_logo.svg/245px-TV_Azteca_Cinema_logo.svg.png" group-title="México", TV Azteca Cinema
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/766
+
+#EXTINF:-1 tvg-name="Azteca Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Azteca_UNO_logo_2020.webp/200px-Azteca_UNO_logo_2020.webp.png" group-title="México", Azteca Uno
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/678
+
+#EXTINF:-1 tvg-name="Bandamax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Bandamax_logo_2020.png/200px-Bandamax_logo_2020.png" group-title="México", Bandamax
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/486
+
+#EXTINF:-1 tvg-name="Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/120px-Canal_5_Mexico_logo_2014.svg.png" group-title="México", Canal 5
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/681
+
+#EXTINF:-1 tvg-name="BitMe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/BitMe.svg/80px-BitMe.svg.png" group-title="Otros", BitMe
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/759
 
 #EXTINF:-1 tvg-name="Caracol Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/125px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="Nacionales", Caracol Televisión
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/768
@@ -150,6 +189,9 @@ http://66.240.236.25:1936/eduvision/eduvision/chunklist_w364721581.m3u8
 #EXTINF:-1 tvg-name="TV Peñol" tvg-logo="https://static.wixstatic.com/media/ddf45e_5d497329920543eea64b6b710967480c~mv2.png/v1/fill/w_153,h_91,al_c,q_85,usm_0.66_1.00_0.01/ddf45e_5d497329920543eea64b6b710967480c~mv2.webp" group-title="Antioquia", TV Peñol
 https://cloud2.streaminglivehd.com:1936/8118/8118/chunklist_w1824411725.m3u8
 
+#EXTINF:-1 tvg-name="Cosmovisión" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/Cosmovision-en-vivo-Online-100x70.png" group-title="Antioquia", Cosmovisión
+https://videohls2.cosmovision.tv/hls/sd_720p2628kbs/index.m3u8
+
 #EXTINF:-1 tvg-name="UAOPlay TV" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/03/UAOPlay-TV-en-vivo-Online-100x70.png" group-title="Valle del Cauca", UAOPlay TV
 https://live-edge-lon-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC023/live-1500/index.m3u8
 
@@ -211,6 +253,10 @@ http://pastocnc1.ddns.net:1935/pastocnc7/cnc7/chunklist_w1589801481.m3u8
 #EXTVLCOPT:http-user-agent=IPTVCO#CrKeyTDT#
 https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/master.m3u8
 
+#EXTINF:-1 tvg-name="TRO+" tvg-logo="" group-title="Santander", TRO+
+#EXTVLCOPT:http-user-agent=IPTVCO#CrKeyTDT#
+https://liveingesta118.cdnmedia.tv/canaltro2live/smil:troplus.smil/master.m3u8
+
 #EXTINF:-1 tvg-name="ATN TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/ATN-Television-en-vivo-Online-100x70.png" group-title="Santander", ATN TV
 https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/chunklist_w1202066077.m3u8
 
@@ -238,6 +284,9 @@ https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/chunklist_w1265030407.m
 
 #EXTINF:-1 tvg-name="Marina Stereo" tvg-logo="https://www.marinastereo.co/wp-content/uploads/2019/11/LOGO-4-300x136.png" group-title="Atlántico", Marina Stereo
 https://rtmp02.portalexpress.es/marinastereo/marinastereo/playlist.m3u8
+
+#EXTINF:-1  tvg-name="Jerusalem TV" tvg-logo="" group-title="Atlántico", Jerusalem TV
+https://srv.panelcast.net/andres/andres/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Teleislas" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Teleislas-en-vivo-Online-100x70.png" group-title="San Andrés y Providencia", Teleislas
 http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
