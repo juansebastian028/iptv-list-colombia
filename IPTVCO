@@ -99,7 +99,7 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-name="TV Azteca Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TV_Azteca_Cinema_logo.svg/245px-TV_Azteca_Cinema_logo.svg.png" group-title="México", TV Azteca Cinema
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/766
 
-#EXTINF:-1 tvg-name="Azteca Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Azteca_UNO_logo_2020.webp/200px-Azteca_UNO_logo_2020.webp.png" group-title="México", Azteca Uno
+#EXTINF:-1 tvg-name="Azteca Uno" tvg-logo="https://tvazteca.brightspotcdn.com/dims4/default/79f8da4/2147483647/strip/true/crop/199x46+0+0/resize/199x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F78%2F27%2F95e8ddb34a27ab94ec89a2291afa%2Faztecauno-199-46.png" group-title="México", Azteca Uno
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/678
 
 #EXTINF:-1 tvg-name="Bandamax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Bandamax_logo_2020.png/200px-Bandamax_logo_2020.png" group-title="México", Bandamax
@@ -108,7 +108,7 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-name="Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/120px-Canal_5_Mexico_logo_2014.svg.png" group-title="México", Canal 5
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/681
 
-#EXTINF:-1 tvg-name="BitMe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/BitMe.svg/80px-BitMe.svg.png" group-title="Otros", BitMe
+#EXTINF:-1 tvg-name="BitMe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/BitMe.svg/80px-BitMe.svg.png" group-title="México", BitMe
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/759
 
 #EXTINF:-1 tvg-name="Caracol Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/125px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="Nacionales", Caracol Televisión
