@@ -118,10 +118,10 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
 
 #EXTINF:-1 tvg-name="Señal Colombia" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Senal-Colombia-en-vivo-en-Directo-218x150.png" group-title="Nacionales", Señal Colombia
-https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b1500000.m3u8
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Canal Institucional" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Canal-Institucional-Colombia-en-vivo-Online-218x150.png" group-title="Nacionales", Canal Institucional
-https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/chunklist_b1500000.m3u8
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TV Agro" tvg-logo="http://tvagro.tv/wp-content/uploads/2017/08/Logo180.png" group-title="Nacionales", TV Agro
 http://179.1.7.198:1935/live/TVAgroHD.stream_360p/chunklist_w842594670.m3u8
@@ -132,10 +132,6 @@ https://infored.lcdn.claro.net.co/Content/hls_clear/live/Channel(REDTVHD)/Stream
 #EXTINF:-1 tvg-name="Cristovisión" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/03/Cristovisi%C3%B3n-en-vivo-Online-100x70.png" group-title="Nacionales", Cristovisión
 #EXTVLCOPT:http-user-agent=IPTVCO#CrKeyTDT#
 https://liveingesta118.cdnmedia.tv/cristovisionlive/smil:live.smil/chunklist_b750000.m3u8
-
-#EXTINF:-1 tvg-name="Canal Trece" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Canal-Trece-Colombia-en-vivo-Online-100x70.png" group-title="Bogotá", Canal Trece
-#EXTVLCOPT:http-user-agent=IPTVCO#CrKeyTDT#
-https://liveingesta118.cdnmedia.tv/canaltrecelive/smil:live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Canal Trece" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Canal-Trece-Colombia-en-vivo-Online-100x70.png" group-title="Bogotá", Canal Trece
 https://canaltrece-live.logicideas.media/canaltrece-live/smil:live.smil/playlist.m3u8
@@ -265,7 +261,7 @@ https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/chunklist_w1202
 
 #EXTINF:-1 tvg-name="Telecafé" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Telecafe-en-vivo-Online-100x70.png" group-title="Caldas", Telecafé
 #EXTVLCOPT:http-user-agent=IPTVCO#CrKeyTDT#
-https://liveingesta118.cdnmedia.tv/telecafelive/smil:live.smil/chunklist_b2000000.m3u8
+https://liveingesta118.cdnmedia.tv/telecafelive/smil:live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Visión Dorada" tvg-logo="https://www.canalvisiondorada.com.co/images/NUEVO-LOGO-CANAL-VISION-DORADA.png" group-title="Caldas", Visión Dorada
 https://movil.ejeserver.com/live/visiondorada.m3u8
