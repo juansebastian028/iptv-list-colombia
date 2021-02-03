@@ -19,7 +19,7 @@ https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
 #EXTINF:-1 tvg-name="Telesur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/150px-TeleSUR-Logo.svg.png" group-title="Internacionales", Telesur
-https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/chunklist.m3u8
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/150px-Science_Channel_logo.svg.png" group-title="Culturales", Discovery Science
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/770
@@ -30,8 +30,11 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-name="Nat Geo Mundo" tvg-logo="https://streamingtvguides.com/img/so/NGMUNDO.png" group-title="Culturales", Nat Geo Mundo
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/598
 
-#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/150px-ESPN_wordmark.svg.png" group-title="Deportes", ESPN
+#EXTINF:-1 tvg-name="ESPN Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/180px-Espn_deportes.svg.png" group-title="Deportes", ESPN Deportes
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1124
+
+#EXTINF:-1, tvg-name="Fox Deportes" tvg-logo="https://images2.imgbox.com/31/0c/H7IHJVgl_o.png" group-title="Deportes", Fox Deportes
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/531
 
 #EXTINF:-1 tvg-name="BeIN Sports Ñ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/BeIN_Sports_En_Espa%C3%B1ol.png" group-title="Deportes", BeIN Sports Ñ
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/
@@ -41,9 +44,6 @@ http://91.126.141.12:1935/live/smil:gol.smil/chunklist_w1294517591_b3128000_slen
 
 #EXTINF:-1 tvg-name="Claro Sports MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/861px-Claro_Sports_logo.svg.png" group-title="Deportes", Claro Sports MX
 https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
-
-#EXTINF:-1, tvg-name="Fox Deportes MX" tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo.png" group-title="Deportes", Fox Deportes MX
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/531
 
 #EXTINF:-1, tvg-name="TUDN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/190px-TUDN_Logo.svg.png" group-title="Deportes", TUDN
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/666
@@ -124,14 +124,14 @@ https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TV Agro" tvg-logo="http://tvagro.tv/wp-content/uploads/2017/08/Logo180.png" group-title="Nacionales", TV Agro
-http://179.1.7.198:1935/live/TVAgroHD.stream_360p/chunklist_w842594670.m3u8
+http://179.1.7.198:1935/live/TVAgroHD.stream_360p/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Red+" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Red-M%C3%A1s-TV-Colombia-en-vivo-Online-100x70.png" group-title="Nacionales", Red+ 
 https://infored.lcdn.claro.net.co/Content/hls_clear/live/Channel(REDTVHD)/Stream(06)/index.m3u8
 
 #EXTINF:-1 tvg-name="Cristovisión" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/03/Cristovisi%C3%B3n-en-vivo-Online-100x70.png" group-title="Nacionales", Cristovisión
 #EXTVLCOPT:http-user-agent=IPTVCO#CrKeyTDT#
-https://liveingesta118.cdnmedia.tv/cristovisionlive/smil:live.smil/chunklist_b750000.m3u8
+https://liveingesta118.cdnmedia.tv/cristovisionlive/smil:live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Canal Trece" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Canal-Trece-Colombia-en-vivo-Online-100x70.png" group-title="Bogotá", Canal Trece
 https://canaltrece-live.logicideas.media/canaltrece-live/smil:live.smil/playlist.m3u8
@@ -140,17 +140,17 @@ https://canaltrece-live.logicideas.media/canaltrece-live/smil:live.smil/playlist
 https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
 
 #EXTINF:-1 tvg-name="CMB TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/03/CMB-TV-Colombia-en-vivo-Online-100x70.png" group-title="Bogotá", CMB TV
-https://liveingesta118.cdnmedia.tv/bethesdalive/smil:live.smil/chunklist_b2000000.m3u8
+https://liveingesta118.cdnmedia.tv/bethesdalive/smil:live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Avivamiento TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/03/Avivamiento-TV-en-vivo-Online-100x70.png" group-title="Bogotá", Avivamiento TV
 https://s2.abntelevision.com/avivamientohd/avivamientohd/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Zoom TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-Zoom-TV-en-vivo-Online-100x70.png" group-title="Bogotá", Zoom TV
 #EXTVLCOPT:http-user-agent=IPTVCO#CrKeyTDT#
-https://liveingesta118.cdnmedia.tv/canalzoomtvlive/smil:streamingcanalzoom.smil/chunklist_b700000.m3u8
+https://liveingesta118.cdnmedia.tv/canalzoomtvlive/smil:streamingcanalzoom.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TV Gracia" tvg-logo="https://www.tvgracia.com/assets/images/tvgracia-espanol-blanco-logo2020-108x119.png" group-title="Bogotá", TV Gracia
-https://streamyes.alsolnet.com/tvgracia/live/chunklist_w989608216.m3u8
+https://streamyes.alsolnet.com/tvgracia/live/playlist.m3u8
 
 #EXTINF: -1 tvg-name="Telemúsica" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Telemusica-Colombia-en-vivo-Online-100x70.png" group-title="Bogotá", Telemúsica
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.m3u8
@@ -162,31 +162,31 @@ https://5b464b69d264e.streamlock.net/Channels_live/ngrp:MelodyChannel_all/playli
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:amordiscos_all/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Mundo+" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/03/Canal-Mundo-Colombia-en-vivo-Online-100x70.png" group-title="Antioquia", Mundo+
-http://vcp1.myplaytv.com:1935/mundomas/mundomas/chunklist_w433194687.m3u8
+http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Teleantioquia" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Teleantioquia-2-en-vivo-Online-218x150.png" group-title="Antioquia", Teleantioquia
 https://hdvideo2.cdn.net.co/live01/ta_720p.m3u8
 
 #EXTINF: -1 tvg-name="Telemedellín" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Telemedellin-en-vivo-Online-100x70.png" group-title="Antioquia", Telemedellín
-https://telemedellin-live.logicideas.media/telemedellin-live/smil:live.smil/chunklist_b2250000.m3u8
+https://telemedellin-live.logicideas.media/telemedellin-live/smil:live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Canal CNC Medellín" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/06/Canal-CNC-Medellin-en-vivo-Online-100x70.png" group-title="Antioquia", Canal CNC Medellín
-http://66.240.236.25:1936/canalcnc/canalcnc/chunklist_w1862829455.m3u8
+http://66.240.236.25:1936/canalcnc/canalcnc/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Teleenvigado" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/TeleEnvigado-en-vivo-Online-100x70.png" group-title="Antioquia", Teleenvigado
 http://66.240.236.25/hls-live/livepkgr/_definst_/liveevent/vivo.m3u8
 
 #EXTINF:-1 tvg-name="TVN Global" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/TVN-Global-en-vivo-Online-100x70.png" group-title="Antioquia", TVN Global
-https://stmv2.voxtvhd.com.br/tvnglobal/tvnglobal/chunklist_w650193044.m3u8
+https://stmv2.voxtvhd.com.br/tvnglobal/tvnglobal/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Tele VID" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Tele-VID-en-vivo-Online-100x70.png" group-title="Antioquia", Tele VID
 https://api.new.livestream.com/accounts/28238881/events/8574038/live.m3u8
 
 #EXTINF:-1 tvg-name="Eduvisión" tvg-logo="" group-title="Antioquia", Eduvisión
-http://66.240.236.25:1936/eduvision/eduvision/chunklist_w364721581.m3u8
+http://66.240.236.25:1936/eduvision/eduvision/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TV Peñol" tvg-logo="https://static.wixstatic.com/media/ddf45e_5d497329920543eea64b6b710967480c~mv2.png/v1/fill/w_153,h_91,al_c,q_85,usm_0.66_1.00_0.01/ddf45e_5d497329920543eea64b6b710967480c~mv2.webp" group-title="Antioquia", TV Peñol
-https://cloud2.streaminglivehd.com:1936/8118/8118/chunklist_w1824411725.m3u8
+https://cloud2.streaminglivehd.com:1936/8118/8118/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Cosmovisión" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/Cosmovision-en-vivo-Online-100x70.png" group-title="Antioquia", Cosmovisión
 https://videohls2.cosmovision.tv/hls/sd_720p2628kbs/index.m3u8
@@ -198,7 +198,7 @@ https://live-edge-lon-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC023/live
 https://live-edge-lon-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/live-1500/index.m3u8
 
 #EXTINF:-1 tvg-name="Telepacífico" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Telepacifico-en-vivo-Online-100x70.png" group-title="Valle del Cauca", Telepacífico
-https://stream.logicideas.media/telepacifico-live/smil:live.smil/chunklist_b4500000.m3u8
+https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Canal 2" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Canal-Dos-Cali-en-vivo-Online-100x70.png" group-title="Valle del Cauca", Canal 2
 https://video13.virtualtronics.com/streamer/canal2_720/index.m3u8
@@ -207,46 +207,46 @@ https://video13.virtualtronics.com/streamer/canal2_720/index.m3u8
 http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Canal C" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-C-Cali-en-vivo-Online-100x70.png" group-title="Valle del Cauca", Canal C
-https://cloud2.streaminglivehd.com:1936/8104/8104/chunklist_w1289938627.m3u8
+https://cloud2.streaminglivehd.com:1936/8104/8104/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Multicanal" tvg-logo="https://i1.wp.com/multicanaltvcali.com/wp-content/uploads/2018/07/logo400.png?w=1080" group-title="Valle del Cauca", Multicanal
-https://cloud2.streaminglivehd.com:1936/8010/8010/chunklist_w2045509253.m3u8
+https://cloud2.streaminglivehd.com:1936/8010/8010/playlist.m3u8
 
 #EXTINF:-1 tvg-name="CNC Tuluá" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2020/10/CNC-Tulua-en-vivo-Online-100x70.png" group-title="Valle del Cauca", CNC Tuluá
 https://servers.amelbasoluciones.co:19360/cnctulua/cnctulua.m3u8
 
 #EXTINF:-1 tvg-name="Telefamilia" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Canal-Telefamilia-en-vivo-Online-100x70.png" group-title="Valle del Cauca", Telefamilia
-https://cloud2.streaminglivehd.com:1936/8116/8116/chunklist_w1971341179.m3u8
+https://cloud2.streaminglivehd.com:1936/8116/8116/playlist.m3u8
 
 #EXTINF:-1 tvg-name="PSC TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/PSC-Television-en-vivo-Online-100x70.png" group-title="Valle del Cauca", PSC TV
-https://srv2.zcast.com.br/psctv2/psctv2/chunklist_w1382730217.m3u8
+https://srv2.zcast.com.br/psctv2/psctv2/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Telepasto" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Telepasto-en-vivo-Online-100x70.png" group-title="Nariño", Telepasto
-http://66.240.236.25:1936/telepasto/telepasto/chunklist_w815005894.m3u8
+http://66.240.236.25:1936/telepasto/telepasto/playlist.m3u8
 
 #EXTINF:-1 tvg-name="CNC Pasto" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/CNC-Pasto-en-vivo-Online-100x70.png" group-title="Nariño", CNC Pasto
-http://66.240.236.25:1936/cncpasto/cncpasto/chunklist_w1689310829.m3u8
+http://66.240.236.25:1936/cncpasto/cncpasto/playlist.m3u8
 
 #EXTINF:-1 tvg-name="CNC Pasto HD" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/CNC-Pasto-en-vivo-Online-100x70.png" group-title="Nariño", CNC Pasto HD
-http://66.240.236.25:1936/popular/popular/chunklist_w189537930.m3u8
+http://66.240.236.25:1936/popular/popular/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Galeras TV" tvg-logo="" group-title="Nariño", Galeras TV
-http://pastocnc1.ddns.net:1935/pastocnc8/cnc8/chunklist_w1893485670.m3u8
+http://pastocnc1.ddns.net:1935/pastocnc8/cnc8/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Hits Channel" tvg-logo="" group-title="Nariño", Hits Channel
-http://pastocnc1.ddns.net:1935/pastocnc1/cnc1/chunklist_w95578596.m3u8
+http://pastocnc1.ddns.net:1935/pastocnc1/cnc1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Son Corazón" tvg-logo="" group-title="Nariño", Son Corazón
-http://pastocnc1.ddns.net:1935/pastocnc3/cnc3/chunklist_w421403006.m3u8
+http://pastocnc1.ddns.net:1935/pastocnc3/cnc3/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Sentimiento Vallenato" tvg-logo="" group-title="Nariño", Sentimiento Vallenato
-http://pastocnc1.ddns.net:1935/pastocnc4/cnc4/chunklist_w358507733.m3u8
+http://pastocnc1.ddns.net:1935/pastocnc4/cnc4/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Son Latino" tvg-logo="" group-title="Nariño", Son Latino
-http://pastocnc1.ddns.net:1935/pastocnc2/cnc2/chunklist_w1970667696.m3u8
+http://pastocnc1.ddns.net:1935/pastocnc2/cnc2/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Son Popular" tvg-logo="" group-title="Nariño", Son Popular
-http://pastocnc1.ddns.net:1935/pastocnc7/cnc7/chunklist_w1589801481.m3u8
+http://pastocnc1.ddns.net:1935/pastocnc7/cnc7/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Canal TRO" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Canal-Tro-en-vivo-Online-100x70.png" group-title="Santander", Canal TRO
 #EXTVLCOPT:http-user-agent=IPTVCO#CrKeyTDT#
@@ -257,7 +257,7 @@ https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/master.m3u8
 https://liveingesta118.cdnmedia.tv/canaltro2live/smil:troplus.smil/master.m3u8
 
 #EXTINF:-1 tvg-name="ATN TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/ATN-Television-en-vivo-Online-100x70.png" group-title="Santander", ATN TV
-https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/chunklist_w1202066077.m3u8
+https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Telecafé" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Telecafe-en-vivo-Online-100x70.png" group-title="Caldas", Telecafé
 #EXTVLCOPT:http-user-agent=IPTVCO#CrKeyTDT#
@@ -267,7 +267,7 @@ https://liveingesta118.cdnmedia.tv/telecafelive/smil:live.smil/playlist.m3u8
 https://movil.ejeserver.com/live/visiondorada.m3u8
 
 #EXTINF:-1 tvg-name="Teleboyacá" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Teleboyaca-en-vivo-Online-100x70.png" group-title="Boyacá", Teleboyacá
-https://srv3.zcast.com.br/teleboyaca/teleboyaca/chunklist_w1382092117.m3u8
+https://srv3.zcast.com.br/teleboyaca/teleboyaca/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Telesantiago Tunja" tvg-logo="https://canaltelesantiago.com/templates/yootheme/cache/logo-78a3ecbc.png" group-title="Boyacá", Telesantiago Tunja
 https://live-edge-lon-1.cdn.enetres.net/B96BDF4F49964F4C9B725BE0528BA89D023/live-1500/index.m3u8
@@ -279,7 +279,7 @@ https://servers.amelbasoluciones.co:19360/tdicolombia/tdicolombia.m3u8
 https://servers.amelbasoluciones.co:19360/8100/8100.m3u8
 
 #EXTINF:-1 tvg-name="CTV Barranquilla" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/07/CTV-Barranquilla-en-vivo-Online-100x70.png" group-title="Atlántico", CTV Barranquilla
-https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/chunklist_w1265030407.m3u8
+https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Marina Stereo" tvg-logo="https://www.marinastereo.co/wp-content/uploads/2019/11/LOGO-4-300x136.png" group-title="Atlántico", Marina Stereo
 https://rtmp02.portalexpress.es/marinastereo/marinastereo/playlist.m3u8
@@ -300,4 +300,4 @@ https://video17.virtualtronics.com/streamer/canalcampotv_720p2628kbs/index.m3u8
 https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="PyC" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2020/10/PyC-Television-en-vivo-Online-100x70.png" group-title="Tolima", PyC
-https://byecableiptv.com/canapycvivo/canalpyc.stream/chunklist_w689691487.m3u8
+https://byecableiptv.com/canapycvivo/canalpyc.stream/playlist.m3u8
