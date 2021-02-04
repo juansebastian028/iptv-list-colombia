@@ -167,6 +167,9 @@ http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
 #EXTINF:-1 tvg-name="Teleantioquia" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Teleantioquia-2-en-vivo-Online-218x150.png" group-title="Antioquia", Teleantioquia
 https://hdvideo2.cdn.net.co/live01/ta_720p.m3u8
 
+#EXTINF:-1 tvg-name="Teleantioquia 2" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Teleantioquia-2-en-vivo-Online-218x150.png" group-title="Antioquia", Teleantioquia 2
+https://api.new.livestream.com/accounts/9427524/events/9218517/live.m3u8
+
 #EXTINF: -1 tvg-name="Telemedellín" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Telemedellin-en-vivo-Online-100x70.png" group-title="Antioquia", Telemedellín
 https://telemedellin-live.logicideas.media/telemedellin-live/smil:live.smil/playlist.m3u8
 
@@ -283,9 +286,6 @@ https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Marina Stereo" tvg-logo="https://www.marinastereo.co/wp-content/uploads/2019/11/LOGO-4-300x136.png" group-title="Atlántico", Marina Stereo
 https://rtmp02.portalexpress.es/marinastereo/marinastereo/playlist.m3u8
-
-#EXTINF:-1  tvg-name="Jerusalem TV" tvg-logo="" group-title="Atlántico", Jerusalem TV
-https://srv.panelcast.net/andres/andres/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Teleislas" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Teleislas-en-vivo-Online-100x70.png" group-title="San Andrés y Providencia", Teleislas
 http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
