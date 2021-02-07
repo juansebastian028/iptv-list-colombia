@@ -27,6 +27,9 @@ http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="UCL Televisión Latam" tvg-logo="https://uclplay.com/wp-content/uploads/2020/04/logo-horizontal-white-1.png" group-title="Internacionales", UCL Televisión Latam
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 
+#EXTINF:-1 tvg-name="Esperanza TV" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/07/Esperanza-TV-NorteAm%C3%A9rica-en-directo-Online-324x235.png" group-title="Internacionales", Esperanza TV
+https://hcintlinc.mmdlive.lldns.net/hcintlinc/7af1df165bec4333b62c59afce9c9e49/manifest.m3u8
+
 #EXTINF:-1 tvg-name="Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/150px-Science_Channel_logo.svg.png" group-title="Culturales", Discovery Science
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/770
 
