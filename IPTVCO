@@ -275,6 +275,9 @@ https://liveingesta118.cdnmedia.tv/telecafelive/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Visión Dorada" tvg-logo="https://www.canalvisiondorada.com.co/images/NUEVO-LOGO-CANAL-VISION-DORADA.png" group-title="Caldas", Visión Dorada
 https://movil.ejeserver.com/live/visiondorada.m3u8
 
+#EXTINF:-1 tvg-name="Ranchenato TV" tvg-logo="http://www.ranchenatotv.co/wp-content/uploads/2018/10/500PX.png" group-title="Caldas", Ranchenato TV
+https://byecableiptv.com/ranchenato/ranchenato.stream_360p/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Teleboyacá" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Teleboyaca-en-vivo-Online-100x70.png" group-title="Boyacá", Teleboyacá
 https://srv3.zcast.com.br/teleboyaca/teleboyaca/playlist.m3u8
 
