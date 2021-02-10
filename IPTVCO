@@ -296,6 +296,9 @@ https://servers.amelbasoluciones.co:19360/tdicolombia/tdicolombia.m3u8
 #EXTINF:-1 tvg-name="Miptv" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/05/Miptv-Colombia-en-vivo-Online-100x70.png" group-title="Meta", Miptv
 https://servers.amelbasoluciones.co:19360/8100/8100.m3u8
 
+#EXTINF: -1 tvg-name="Telecaribe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Telecaribe2017.png/150px-Telecaribe2017.png" group-title="Atlántico", Telecaribe
+https://tkx.apis.anvato.net/rest/v2/mcp/video/adstB64MXYxqLZwy?anvack=4gXmVVoVIp3YeECJWm6af3j0mlHwl6vO&eud=SKjoH1L%2F9Enwo5zQBiBTRfTSNGfENMNO6udm4CQNVvix%2FL9XX8kucBOvzWalIghNrL5GllGH8ou17ICYGv29Rg%3D%3D
+
 #EXTINF:-1 tvg-name="CTV Barranquilla" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/07/CTV-Barranquilla-en-vivo-Online-100x70.png" group-title="Atlántico", CTV Barranquilla
 https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8
 
