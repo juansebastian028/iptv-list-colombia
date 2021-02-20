@@ -147,7 +147,7 @@ https://servers.amelbasoluciones.co:19360/cnctulua/cnctulua.m3u8
 https://cloud2.streaminglivehd.com:1936/8116/8116/playlist.m3u8
 
 #EXTINF:-1 tvg-name="PSC TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/PSC-Television-en-vivo-Online-100x70.png" group-title="Valle del Cauca", PSC TV
-https://srv2.zcast.com.br/psctv2/psctv2/playlist.m3u8
+https://srv1.zcast.com.br/psctv2/psctv2/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Telepasto" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Telepasto-en-vivo-Online-100x70.png" group-title="Nariño", Telepasto
 http://66.240.236.25:1936/telepasto/telepasto/playlist.m3u8
