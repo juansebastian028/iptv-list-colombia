@@ -93,7 +93,7 @@ http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
 https://hdvideo2.cdn.net.co/live01/ta_720p.m3u8
 
 #EXTINF:-1 tvg-name="Teleantioquia 2" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Teleantioquia-2-en-vivo-Online-218x150.png" group-title="Antioquia", Teleantioquia 2
-https://api.new.livestream.com/accounts/9427524/events/9218517/live.m3u8
+https://hdvideo2.cdn.net.co/live01/ta2_720p.m3u8
 
 #EXTINF: -1 tvg-name="Telemedellín" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Telemedellin-en-vivo-Online-100x70.png" group-title="Antioquia", Telemedellín
 https://telemedellin-live.logicideas.media/telemedellin-live/smil:live.smil/playlist.m3u8
