@@ -101,9 +101,6 @@ https://telemedellin-live.logicideas.media/telemedellin-live/smil:live.smil/play
 #EXTINF:-1 tvg-name="Canal CNC Medellín" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/06/Canal-CNC-Medellin-en-vivo-Online-100x70.png" group-title="Antioquia", Canal CNC Medellín
 http://66.240.236.25:1936/canalcnc/canalcnc/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Teleenvigado" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/TeleEnvigado-en-vivo-Online-100x70.png" group-title="Antioquia", Teleenvigado
-http://66.240.236.25/hls-live/livepkgr/_definst_/liveevent/vivo.m3u8
-
 #EXTINF:-1 tvg-name="TVN Global" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/TVN-Global-en-vivo-Online-100x70.png" group-title="Antioquia", TVN Global
 https://stmv2.voxtvhd.com.br/tvnglobal/tvnglobal/playlist.m3u8
 
