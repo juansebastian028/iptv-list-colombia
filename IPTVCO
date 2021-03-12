@@ -21,9 +21,6 @@ https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-name="Telesur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/150px-TeleSUR-Logo.svg.png" group-title="Internacionales", Telesur
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
 
-#EXTINF:-1 tvg-name="UCL Televisión Latam" tvg-logo="https://uclplay.com/wp-content/uploads/2020/04/logo-horizontal-white-1.png" group-title="Internacionales", UCL Televisión Latam
-https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
-
 #EXTINF:-1 tvg-name="Esperanza TV" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/07/Esperanza-TV-NorteAm%C3%A9rica-en-directo-Online-324x235.png" group-title="Internacionales", Esperanza TV
 https://hcintlinc.mmdlive.lldns.net/hcintlinc/7af1df165bec4333b62c59afce9c9e49/playlist.m3u8
 
@@ -96,7 +93,7 @@ https://hdvideo2.cdn.net.co/live01/ta_720p.m3u8
 https://hdvideo2.cdn.net.co/live01/ta2_720p.m3u8
 
 #EXTINF: -1 tvg-name="Telemedellín" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Telemedellin-en-vivo-Online-100x70.png" group-title="Antioquia", Telemedellín
-https://telemedellin-live.logicideas.media/telemedellin-live/smil:live.smil/playlist.m3u8
+https://liveingesta118.cdnmedia.tv/telemedellintvlive/smil:live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Canal CNC Medellín" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/06/Canal-CNC-Medellin-en-vivo-Online-100x70.png" group-title="Antioquia", Canal CNC Medellín
 http://66.240.236.25:1936/canalcnc/canalcnc/playlist.m3u8
