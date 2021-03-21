@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF: -1 tvg-name="RT Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/125px-Russia-today-logo.svg.png" group-title="Internacionales", RT Español
-https://rt-esp-gd.secure2.footprint.net/1102_2500Kb.m3u8
+https://rt-esp-gd.secure2.footprint.net/1102.m3u8
 
 #EXTINF: -1 tvg-name="DW Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/125px-Deutsche_Welle_symbol_2012.svg.png" group-title="Internacionales", DW Español
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
@@ -94,7 +94,7 @@ https://hdvideo2.cdn.net.co/live01/ta2_720p.m3u8
 
 #EXTINF: -1 tvg-name="Telemedellín" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Telemedellin-en-vivo-Online-100x70.png" group-title="Antioquia", Telemedellín
 #EXTVLCOPT:http-user-agent=IPTVCO#CrKeyTDT#
-https://liveingesta118.cdnmedia.tv/telemedellintvlive/smil:live.smil/playlist.m3u8
+https://liveingesta118.cdnmedia.tv/telemedellintvlive/smil:dvrlive.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Canal CNC Medellín" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/06/Canal-CNC-Medellin-en-vivo-Online-100x70.png" group-title="Antioquia", Canal CNC Medellín
 http://66.240.236.25:1936/canalcnc/canalcnc/playlist.m3u8
