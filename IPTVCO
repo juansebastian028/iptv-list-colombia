@@ -34,7 +34,7 @@ https://hcintlinc.mmdlive.lldns.net/hcintlinc/7af1df165bec4333b62c59afce9c9e49/p
 https://rtvelivestream.akamaized.net/la1_dvr.m3u8
 
 #EXTINF:-1 tvg-name="La 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/125px-Logo_TVE-2.svg.png" group-title="Internacionales", La 2
-https://rtvelivestream-lvlt.rtve.es/la2_dvr.m3u8
+https://rtvelivestream.akamaized.net/la2_dvr.m3u8
 
 #EXTINF:-1 tvg-name="GOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/250px-Gol.svg.png" group-title="Deportivos", GOL	
 http://91.126.141.12:1935/live/smil:gol.smil/chunklist_w1294517591_b3128000_sleng.m3u8
@@ -121,9 +121,6 @@ https://stmv2.voxtvhd.com.br/tvnglobal/tvnglobal/playlist.m3u8
 #EXTINF:-1 tvg-name="Tele VID" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Tele-VID-en-vivo-Online-100x70.png" group-title="Antioquia", Tele VID
 https://api.new.livestream.com/accounts/28238881/events/8574038/live.m3u8
 
-#EXTINF:-1 tvg-name="Eduvisión" tvg-logo="" group-title="Antioquia", Eduvisión
-http://66.240.236.25:1936/eduvision/eduvision/playlist.m3u8
-
 #EXTINF:-1 tvg-name="TV Peñol" tvg-logo="https://static.wixstatic.com/media/ddf45e_5d497329920543eea64b6b710967480c~mv2.png/v1/fill/w_153,h_91,al_c,q_85,usm_0.66_1.00_0.01/ddf45e_5d497329920543eea64b6b710967480c~mv2.webp" group-title="Antioquia", TV Peñol
 https://cloud2.streaminglivehd.com:1936/8118/8118/playlist.m3u8
 
@@ -163,30 +160,6 @@ https://srv1.zcast.com.br/psctv2/psctv2/playlist.m3u8
 #EXTINF:-1 tvg-name="Telepasto" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Telepasto-en-vivo-Online-100x70.png" group-title="Nariño", Telepasto
 http://66.240.236.25:1936/telepasto/telepasto/playlist.m3u8
 
-#EXTINF:-1 tvg-name="CNC Pasto" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/CNC-Pasto-en-vivo-Online-100x70.png" group-title="Nariño", CNC Pasto
-http://66.240.236.25:1936/cncpasto/cncpasto/playlist.m3u8
-
-#EXTINF:-1 tvg-name="CNC Pasto HD" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/CNC-Pasto-en-vivo-Online-100x70.png" group-title="Nariño", CNC Pasto HD
-http://66.240.236.25:1936/popular/popular/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Galeras TV" tvg-logo="" group-title="Nariño", Galeras TV
-http://pastocnc1.ddns.net:1935/pastocnc8/cnc8/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Hits Channel" tvg-logo="" group-title="Nariño", Hits Channel
-http://pastocnc1.ddns.net:1935/pastocnc1/cnc1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Son Corazón" tvg-logo="" group-title="Nariño", Son Corazón
-http://pastocnc1.ddns.net:1935/pastocnc3/cnc3/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Sentimiento Vallenato" tvg-logo="" group-title="Nariño", Sentimiento Vallenato
-http://pastocnc1.ddns.net:1935/pastocnc4/cnc4/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Son Latino" tvg-logo="" group-title="Nariño", Son Latino
-http://pastocnc1.ddns.net:1935/pastocnc2/cnc2/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Son Popular" tvg-logo="" group-title="Nariño", Son Popular
-http://pastocnc1.ddns.net:1935/pastocnc7/cnc7/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Canal TRO" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Canal-Tro-en-vivo-Online-100x70.png" group-title="Santander", Canal TRO
 #EXTVLCOPT:http-user-agent=IPTVCO#CrKeyTDT#
 https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/master.m3u8
@@ -216,9 +189,6 @@ https://live-edge-lon-1.cdn.enetres.net/B96BDF4F49964F4C9B725BE0528BA89D023/live
 
 #EXTINF:-1 tvg-name="TDI Colombia" tvg-logo="https://www.tdicolombia.com.co/wp-content/uploads/2021/01/tdisf3.png" group-title="Meta", TDI Colombia
 https://servers.amelbasoluciones.co:19360/tdicolombia/tdicolombia.m3u8
-
-#EXTINF:-1 tvg-name="Miptv" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/05/Miptv-Colombia-en-vivo-Online-100x70.png" group-title="Meta", Miptv
-https://servers.amelbasoluciones.co:19360/8100/8100.m3u8
 
 #EXTINF: -1 tvg-name="Telecaribe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Telecaribe2017.png/150px-Telecaribe2017.png" group-title="Atlántico", Telecaribe
 https://tkx.apis.anvato.net/rest/v2/mcp/video/adstB64MXYxqLZwy?anvack=4gXmVVoVIp3YeECJWm6af3j0mlHwl6vO&eud=SKjoH1L%2F9Enwo5zQBiBTRfTSNGfENMNO6udm4CQNVvix%2FL9XX8kucBOvzWalIghNrL5GllGH8ou17ICYGv29Rg%3D%3D
