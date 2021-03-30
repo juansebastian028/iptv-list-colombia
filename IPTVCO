@@ -18,11 +18,23 @@ https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8
 #EXTINF:-1 tvg-name="CGTN Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/CGTN_Espanol.png/180px-CGTN_Espanol.png" group-title="Internacionales", CGTN Español
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
+#EXTINF:-1 tvg-name="NHK World Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/1280px-NHK_World-Japan_TV.svg.png" group-title="Internacionales", NHK World Japan
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+
+#EXTINF:-1 tvg-name="Al Jazeera" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Al-jazeera-logo.jpg/140px-Al-jazeera-logo.jpg" group-title="Internacionales", Al Jazeera
+https://live-hls-aje-ak.getaj.net/AJE/index.m3u8
+
 #EXTINF:-1 tvg-name="Telesur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/150px-TeleSUR-Logo.svg.png" group-title="Internacionales", Telesur
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Esperanza TV" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/07/Esperanza-TV-NorteAm%C3%A9rica-en-directo-Online-324x235.png" group-title="Internacionales", Esperanza TV
 https://hcintlinc.mmdlive.lldns.net/hcintlinc/7af1df165bec4333b62c59afce9c9e49/playlist.m3u8
+
+#EXTINF:-1 tvg-name="La 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/125px-Logo_TVE-1.svg.png" group-title="Internacionales", La 1
+https://rtvelivestream.akamaized.net/la1_dvr.m3u8
+
+#EXTINF:-1 tvg-name="La 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/125px-Logo_TVE-2.svg.png" group-title="Internacionales", La 2
+https://rtvelivestream-lvlt.rtve.es/la2_dvr.m3u8
 
 #EXTINF:-1 tvg-name="GOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/250px-Gol.svg.png" group-title="Deportivos", GOL	
 http://91.126.141.12:1935/live/smil:gol.smil/chunklist_w1294517591_b3128000_sleng.m3u8
@@ -54,6 +66,10 @@ https://infored.lcdn.claro.net.co/Content/hls_clear/live/Channel(REDTVHD)/Stream
 #EXTINF:-1 tvg-name="Cristovisión" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/03/Cristovisi%C3%B3n-en-vivo-Online-100x70.png" group-title="Nacionales", Cristovisión
 #EXTVLCOPT:http-user-agent=IPTVCO#CrKeyTDT#
 https://liveingesta118.cdnmedia.tv/cristovisionlive/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Teleamiga" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/03/Teleamiga-en-vivo-Online-100x70.png" group-title="Nacionales", Teleamiga
+#EXTVLCOPT:http-user-agent=IPTVCO#CrKeyTDT#
+https://liveingesta118.cdnmedia.tv/teleamigatvlive/smil:teleamigalive.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Canal Trece" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Canal-Trece-Colombia-en-vivo-Online-100x70.png" group-title="Bogotá", Canal Trece
 https://canaltrece-live.logicideas.media/canaltrece-live/smil:live.smil/playlist.m3u8
