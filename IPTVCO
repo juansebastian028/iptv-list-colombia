@@ -34,7 +34,7 @@ https://hcintlinc.mmdlive.lldns.net/hcintlinc/7af1df165bec4333b62c59afce9c9e49/p
 https://rtvelivestream.akamaized.net/la1_main_dvr.m3u8
 
 #EXTINF:-1 tvg-name="La 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/125px-Logo_TVE-2.svg.png" group-title="Internacionales", La 2
-https://rtvelivestream-lvlt.rtve.es/la2_main_dvr.m3u8
+https://rtvelivestream.akamaized.net/la2_main_dvr.m3u8
 
 #EXTINF:-1 tvg-name="Claro Sports MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/861px-Claro_Sports_logo.svg.png" group-title="Deportivos", Claro Sports MX
 https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
