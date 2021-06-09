@@ -24,9 +24,6 @@ https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 #EXTINF:-1 tvg-name="Al Jazeera" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Al-jazeera-logo.jpg/140px-Al-jazeera-logo.jpg" group-title="Internacionales", Al Jazeera
 https://live-hls-aje-ak.getaj.net/AJE/index.m3u8
 
-#EXTINF:-1 tvg-name="Telesur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/150px-TeleSUR-Logo.svg.png" group-title="Internacionales", Telesur
-https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Esperanza TV" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/07/Esperanza-TV-NorteAm%C3%A9rica-en-directo-Online-324x235.png" group-title="Internacionales", Esperanza TV
 https://hcintlinc.mmdlive.lldns.net/hcintlinc/7af1df165bec4333b62c59afce9c9e49/playlist.m3u8
 
@@ -35,9 +32,6 @@ https://rtvelivestream.akamaized.net/la1_main_dvr.m3u8
 
 #EXTINF:-1 tvg-name="La 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/125px-Logo_TVE-2.svg.png" group-title="Internacionales", La 2
 https://rtvelivestream.akamaized.net/la2_main_dvr.m3u8
-
-#EXTINF:-1 tvg-name="Claro Sports MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/861px-Claro_Sports_logo.svg.png" group-title="Deportivos", Claro Sports MX
-https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
 
 #EXTINF:-1 tvg-name="Caracol Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/125px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="Nacionales", Caracol Televisión
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
