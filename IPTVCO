@@ -39,6 +39,9 @@ https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 #EXTINF:-1 tvg-name="Noticias Caracol Ahora" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Noticias_Caracol_imagotype.svg/150px-Noticias_Caracol_imagotype.svg.png" group-title="Nacionales", Noticias Caracol Ahora
 https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
 
+#EXTINF:-1 tvg-name="GOL Caracol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/LogoGolCaracol2013.png" group-title="Nacionales", GOL Caracol
+https://mdstrm.com/live-stream-playlist/58d18bd236e5f69e5887332b.m3u8
+
 #EXTINF: -1 tvg-name="Canal Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/125px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="Nacionales", Canal Uno
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
 
